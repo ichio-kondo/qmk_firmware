@@ -1,0 +1,9 @@
+total 56
+drwxr-xr-x    8 kreis  staff    256 10 29 11:45 .
+drwxr-xr-x  150 kreis  staff   4800 10 29 11:26 ..
+-rw-r--r--    1 kreis  staff    976 10 29 11:26 config.h
+-rw-r--r--    1 kreis  staff  14226 10 29 11:26 keymap.c
+-rw-r--r--    1 kreis  staff      0 10 29 11:45 pbpaste
+-rw-r--r--    1 kreis  staff      0 10 29 11:44 pwd
+-rw-r--r--    1 kreis  staff     29 10 29 11:26 readme.md
+-rw-r--r--    1 kreis  staff     14 10 29 11:26 rules.mk

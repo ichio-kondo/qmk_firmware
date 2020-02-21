@@ -102,9 +102,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     #define RGBLIGHT_LIMIT_VAL 255
   #else
     #if HELIX_ROWS == 4
-      #define RGBLIGHT_LIMIT_VAL 130
+      #define RGBLIGHT_LIMIT_VAL 255
     #else
-      #define RGBLIGHT_LIMIT_VAL 120
+      #define RGBLIGHT_LIMIT_VAL 255	
     #endif
   #endif
   #define RGBLIGHT_VAL_STEP 17
@@ -130,7 +130,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 //  330  RGB 6
 //  300  RGB 32
 //  310  OLED & RGB 32
-  #define USB_MAX_POWER_CONSUMPTION 400
+  #define USB_MAX_POWER_CONSUMPTION 450
 #else
   // fix iPhone and iPad power adapter issue
   // iOS device need lessthan 100

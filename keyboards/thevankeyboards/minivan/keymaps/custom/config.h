@@ -1,0 +1,31 @@
+#pragma once
+
+// place overrides here
+
+
+#define USE_SERIAL_PD2
+#define RETRO_TAPPING
+#define TAPPING_FORCE_HOLD
+#define TAPPING_TERM 165
+#define PERMISSIVE_HOLD
+#define RETRO_TAPPING
+
+
+#define RGBLIGHT_LIMIT_VAL 255
+
+
+
+#undef MOUSEKEY_INTERVAL
+#define MOUSEKEY_INTERVAL 0
+
+#undef MOUSEKEY_TIME_TO_MAX
+#define MOUSEKEY_TIME_TO_MAX 150
+
+#undef MOUSEKEY_MAX_SPEED
+#define MOUSEKEY_MAX_SPEED 3
+
+#undef MOUSEKEY_MOVE_DELTA
+#define MOUSEKEY_MOVE_DELTA 5
+
+#undef MOUSEKEY_DELAY
+#define MOUSEKEY_DELAY 0

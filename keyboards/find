@@ -1,0 +1,3810 @@
+ 3810  du -ms qmk_firmware
+ 3809  clear
+ 3808  du -m qmk_firmware |more
+ 3807  du -m qmk_firmware
+ 3806  ls -al 
+ 3805  ls -al qmk_firmware
+ 3804  cd
+ 3803  ls -al
+ 3802  make crkbd:default
+ 3801  make git-submodule
+ 3800  cd qmk_firmware
+ 3799  ls -al
+ 3798  cd ..
+ 3797  clear
+ 3796  ls -al
+ 3795  clear
+ 3794  make version
+ 3793  clear
+ 3792  make
+ 3791  clear
+ 3790  make crkbd:default
+ 3789  util/msys2_install.sh
+ 3788  sudo make crkbd:default
+ 3787  make clen
+ 3786  make crkbd:default
+ 3785  make crkbd:default:all
+ 3784  make crkbd:default
+ 3783  cd qmk_firmware
+ 3782  cd q
+ 3781  cd 
+ 3780  ls -al
+ 3779  cd keymaps
+ 3778  ls -al
+ 3777  cd keyboards/crkbd
+ 3776  make crkbd:defult
+ 3775  make crkbd:default
+ 3774  cd qmk_firmware
+ 3773  cd
+ 3772  cd ..
+ 3771  cd keyboards/crkbd
+ 3770  make crkb:default
+ 3769  pwd
+ 3768  cd qmk_firmware
+ 3767  ls -al qmk_firmware
+ 3766  git clone git@github.com:ichio-kondo/qmk_firmware.git
+ 3765  cd
+ 3764  clear
+ 3763  ls -al
+ 3762  clear
+ 3761  ssh -T git@github.com
+ 3760  sudo chmod 600 id_rsa.pub
+ 3759  sudo chmod 600 id_rsa_pub
+ 3758  sudo chmod 600 id_rsa
+ 3757  ssh -T ichio-kondo@github.com
+ 3756  sudo chmod 777 id_rsa.pub
+ 3755  ssh -T ichio-kondo@github.com
+ 3754  ls -al
+ 3753  sudo chmod 777 id_rsa
+ 3752  sudo chmod777 id_rsa
+ 3751  ssh -T ichio-kondo@github.com
+ 3750  cat ~/.ssh/id_rsa.pub | pbcopy
+ 3749  open -a Finder ./
+ 3748  vim id_rsa
+ 3747  cd .ssh
+ 3746  vim id_rsa
+ 3745  ls -al .ssh
+ 3744  ls 
+ 3743  sudo cd .ssh
+ 3742  ssh-keygen -t rsa -C "https://github.com/ichio-kondo"
+ 3741  clear
+ 3740  cleawr
+ 3739  mdfind -onlyin ~/ -name  "ichio""\n"
+ 3738  pwd
+ 3737  cd .ssh/
+ 3736  cd /.ssh/
+ 3735  ssh-keygen -t rsa -C ""
+ 3734  clear
+ 3733  ls -al
+ 3732  clear
+ 3731  ls -al
+ 3730  cd 
+ 3729  clear
+ 3728  make crkbd:custom
+ 3727* brew reinstall avrdude
+ 3726* brew install avrdude
+ 3725* brew reinstall gcc-arm-none-eabi
+ 3724* brew install gcc-arm-none-eabi
+ 3723* brew reinstall dfu-programmer
+ 3722* brew install dfu-programmer
+ 3721* brew reinstall avr-gcc@7
+ 3720* brew install avr-gcc@7
+ 3719* brew update
+ 3718* brew tap PX4/homebrew-px4
+ 3717* brew tap osx-cross/avr
+ 3716* cd
+ 3715* ls -al
+ 3714* ls -l
+ 3713* clear
+ 3712* ls -al
+ 3711* ls -l
+ 3710* clear
+ 3709* ls -al
+ 3708  make version
+ 3707  ls -al
+ 3706  clear
+ 3705  make crkbd:custom:avrdude
+ 3704  make crkbd:custom
+ 3703  git reset --hard HEAD@{0}
+ 3702  git reflog
+ 3701* pwd
+ 3700* ls -al
+ 3699  make crkbd:custom
+ 3698  cd keybord/qmk_firmware
+ 3697  make crkbd:custom
+ 3696  make
+ 3695  make -h
+ 3694  make -al
+ 3693  make
+ 3692  cd 
+ 3691  cd ..
+ 3690  ls -al
+ 3689  exit
+ 3688  mdfind -onlyin ~/ -name "make"
+ 3687  find make
+ 3686  wich make
+ 3685  ls -l
+ 3684  make crkbd:custom
+ 3683  cd crkbd
+ 3682  cd keyboards
+ 3681  ls -al
+ 3680  ls 
+ 3679  cd qmk_firmware
+ 3678  ls -al
+ 3677  ls-al
+ 3676  clear
+ 3675  cd ..
+ 3674  pwd
+ 3673  clear
+ 3672  make
+ 3671  clear
+ 3670  '\n\n\n\n\nls -al\nend\n' '\n"\nend\n'
+ 3669  ls -al
+ 3668  pwd
+ 3667  make crkbd:custom
+ 3666  cd ..
+ 3665  ls -al
+ 3664  cd keyboards/crkbd/keymaps/custom
+ 3663  pwd
+ 3662  make crkbd:custom
+ 3661  pwd
+ 3660* cd /Users/kreis/keybord/qmk\_firmware
+ 3659  make crkbd:custom:avrdude
+ 3658  make crkbd:custom:arvdude
+ 3657  make crkbd:custom
+ 3656* open -a Finder ./
+ 3655* clear
+ 3654* if\n;\nq\n;\nquit\n;\n:\n\n\nopen -a Finder ./\n\topen -a Finder ./\n;\n\n\n\n\n\n\n\n\nquit\nbye\n;\nquit\nexit\nquit\n\n\n\n\n\n\nclear\n:\n;\nend
+ 3653* vim keymap.c
+ 3652  make crkbd:custom
+ 3651* vim keymap.c
+ 3650* cd keybord/qmk_firmware/keyboards/crkbd/keymaps/custom
+ 3649  make crkbd:custom
+ 3648  cd qmk_firmware
+ 3647  cd ..
+ 3646  cd .. 
+ 3645  vim keymap.c
+ 3644  cd keyboards/crkbd/keymaps/custom
+ 3643  make crkbd:custom
+ 3642  pwd
+ 3641  make crkbd/custom
+ 3640  cd ..
+ 3639  vim keymap.c
+ 3638  ls -al
+ 3637  cd keyboards/crkbd/keymaps/custom
+ 3636  pwd
+ 3635  ls -al
+ 3634  ls -l
+ 3633  cd keyboards/crkdb/keymap/custom
+ 3632  clear
+ 3631  git status
+ 3630  ls -al
+ 3629  dir
+ 3628  clear
+ 3627  ls -al
+ 3626  git status
+ 3625  pwd
+ 3624  ls -al
+ 3623  ls-al
+ 3622  clear
+ 3621  git ls-files |more
+ 3620  git ls-files
+ 3619  git remote
+ 3618  ls -al
+ 3617  cd qmk_firmware
+ 3616  ls -al
+ 3615  cd keybord
+ 3614  ls -al
+ 3613  clear
+ 3612  ls -al
+ 3611  clear
+ 3610  git version
+ 3609  brew list git
+ 3608  brew list
+ 3607  pwd
+ 3606  which git
+ 3605  source .bash_profile
+ 3604  $ source .bash_profile
+ 3603  ls -al
+ 3602  clear
+ 3601  ls -al
+ 3600  clear
+ 3599  ls -al
+ 3598  clear
+ 3597  ls -al
+ 3596  clear
+ 3595  ls -al
+ 3594  clear
+ 3593  ls -al
+ 3592  git remote
+ 3591  clear
+ 3590  ls -al
+ 3589  brew upgrade git
+ 3588  who
+ 3587  which git
+ 3586  git version
+ 3585  echo $PATH
+ 3584  echo $PAHT
+ 3583  ls-al
+ 3582  ls -al .bash_profile
+ 3581  ls 
+ 3580  cd Cellar
+ 3579  cd ..
+ 3578  ls -al git
+ 3577  cd git
+ 3576  ls 
+ 3575  cd bin
+ 3574  ls 
+ 3573  cd /usr/local
+ 3572  cd /usr/local/bin/git
+ 3571  ls git
+ 3570  cd /usr/local
+ 3569  ls -al
+ 3568  vim ~/.bash_profile
+ 3567  cd
+ 3566  vim ~/.bash_profile
+ 3565  export -p
+ 3564  echo $PATH
+ 3563  echo R
+ 3562  ls 
+ 3561  cd /usr/local/bin
+ 3560  ls 
+ 3559  cd
+ 3558  clear
+ 3557  ls 
+ 3556  cd /usr/sbin
+ 3555  cd sheard
+ 3554  ls  -al
+ 3553  kreis
+ 3552  ls 
+ 3551  cd /Users
+ 3550  cd /User
+ 3549  cd /User/
+ 3548  pwd
+ 3547  cd
+ 3546  ls -al ~/.bashrc
+ 3545  ls -al .bash.rc
+ 3544  ls -al bash.rc
+ 3543  who
+ 3542  clear
+ 3541  cd clear
+ 3540  cd bash
+ 3539  ls 
+ 3538  cd /etc/
+ 3537  cd 
+ 3536  mdfind -onlyin ~/ -name "bash.rc\n "
+ 3535  mdfind -onlyin ~/ -name "bashrc"
+ 3534  git version
+ 3533  sudo git version
+ 3532  git version
+ 3531  /usr/local/bin/git version
+ 3530  /user/local/bin/git version
+ 3529  ls git
+ 3528  ls -al git
+ 3527  which git
+ 3526  echo $PATH
+ 3525  ls 
+ 3524  cd /usr/local/bin
+ 3523  which git
+ 3522  ls -al
+ 3521  clear
+ 3520  git remote
+ 3519  brew upgrade git
+ 3518  git version
+ 3517  brew install git
+ 3516  git version
+ 3515  brew upgrade git
+ 3514  clear
+ 3513  ls -al
+ 3512  clear
+ 3511  git remote
+ 3510  brew cask install sourcetree
+ 3509  clear
+ 3508  brew update
+ 3507  brow update
+ 3506  cd
+ 3505  cd..
+ 3504  vim rules.mk
+ 3503  ls -al
+ 3502  make crkbd:custom:avrdude
+ 3501  pwd
+ 3500  ls -al
+ 3499  make crkbd:custom
+ 3498  make crkdb:custom
+ 3497  vim keymap.c
+ 3496  ls -al
+ 3495  cd custom
+ 3494  ls -al
+ 3493  cd keybord/qmk_firmware/keyboards/crkbd/keymaps
+ 3492  clear
+ 3491  pwd
+ 3490  clear
+ 3489  make crkbd:custom
+ 3488  cd keybord/qmk_firmware
+ 3487  cd 
+ 3486  clear
+ 3485  celar
+ 3484  ls -al
+ 3483  ls -al;
+ 3482  clear
+ 3481  ls -al
+ 3480  vim config.h
+ 3479  ls
+ 3478  cd keybord/qmk_firmware/keyboards/crkbd/keymaps/custom/
+ 3477  cd 
+ 3476  vim keymap.c
+ 3475  ls -al
+ 3474  cd ichio00
+ 3473  ls 
+ 3472  cd keymaps
+ 3471  ls
+ 3470  cd keybord/qmk_firmware/keyboards/dz60/
+ 3469  clear
+ 3468  ls -al
+ 3467  clear
+ 3466  ls -al
+ 3465  clear
+ 3464  ls -al
+ 3463  clear
+ 3462  ls -al
+ 3461  clear
+ 3460  ls -al
+ 3459  clear
+ 3458  vim keymap.c
+ 3457  ls -al
+ 3456  cd custom
+ 3455  ls -al
+ 3454  cd keymaps
+ 3453  ls -al
+ 3452  cd keyboards/crkbd
+ 3451  cd keybord/qmk_firmware
+ 3450  pwd
+ 3449  clear
+ 3448  cls
+ 3447  dir
+ 3446  clear
+ 3445  ls  -al
+ 3444  pwd
+ 3443  clear
+ 3442  pwd
+ 3441  dir
+ 3440  clear
+ 3439  ls -al
+ 3438  ls -l
+ 3437  clear
+ 3436  ls -al
+ 3435  clear
+ 3434  lear
+ 3433  vim keymap.c
+ 3432  cd keybord/qmk_firmware/keyboards/crkbd/keymaps/custom
+ 3431  ls -al
+ 3430  clear
+ 3429  mdfind -onlyin ~/ -name "avrdude"
+ 3428  mdfind -onlyin ~/ -name "avrdude.conf "
+ 3427  pwd
+ 3426  dir
+ 3425  clear
+ 3424  c;ear
+ 3423  ls -al
+ 3422  clear
+ 3421  ls -al
+ 3420  clear
+ 3419  make crkbd:custom:avrdude
+ 3418  make crkbd:custom
+ 3417  cd keybord/qmk_firmware
+ 3416  pwd
+ 3415  pef
+ 3414  clear
+ 3413  vim keymap.c
+ 3412  pwd
+ 3411  make crkbd:custom:avrdude
+ 3410  make crkbd:custom
+ 3409  pwd
+ 3408  vim config.h 
+ 3407  cd keymaps/custom
+ 3406  cd custom
+ 3405  cd crkbd
+ 3404  cdcrkbd
+ 3403  cd keyboards/
+ 3402  cd keyboards/crkdb/
+ 3401  cd keybord/qmk_firmware
+ 3400  cd
+ 3399  celar
+ 3398  ls -al
+ 3397  make crkbd:custom:avrdude
+ 3396  make crkbd:custom
+ 3395  cd ..
+ 3394  vim config.h 
+ 3393  ls 
+ 3392  cd custom
+ 3391  cd keymaps/
+ 3390  cd crkbd
+ 3389  cd keyboards/
+ 3388  cd keybor
+ 3387  clear
+ 3386  c;ear
+ 3385  ::::
+ 3384  ls -al
+ 3383  clear
+ 3382  make crkbd:custom:avrdude
+ 3381  make crkbd:custom:avrdud
+ 3380  make crkbd:custom:avrdude
+ 3379  make crkbd:custom:arvdude
+ 3378  make crkbd:custom
+ 3377  make crkdb:custom
+ 3376  cd qmk_firmware
+ 3375  pwd
+ 3374  cd ..
+ 3373  pwd
+ 3372  cd ..
+ 3371  cd..
+ 3370  cd ..
+ 3369  cd..
+ 3368  open -a Finder ./
+ 3367  vim keymap.c
+ 3366  vim config.h
+ 3365  im config.h
+ 3364  vim config.h
+ 3363  cd keybord/qmk_firmware/keyboards/crkbd/keymaps/custom
+ 3362  pwd
+ 3361  clear
+ 3360  ls -al
+ 3359  clear
+ 3358  ls -al
+ 3357  vim keymap.c
+ 3356  ls -al
+ 3355  cd ichio00
+ 3354  cd ..
+ 3353  pwd
+ 3352  clear
+ 3351  cd Custom_HHKB
+ 3350  ls -al
+ 3349  cd keymaps/
+ 3348  cd dz60
+ 3347  cd dz60/60
+ 3346  cd keyboards/
+ 3345  cd keybord/qmk_firmware
+ 3344  clear
+ 3343  ls -al
+ 3342  clear
+ 3341  ls -al
+ 3340  clear
+ 3339  ls -al
+ 3338  clear
+ 3337  dir
+ 3336  clear
+ 3335  ls -al
+ 3334  clear
+ 3333  ls -al
+ 3332  ls -l
+ 3331  cd .
+ 3330  ls 
+ 3329  clear; cd '/Volumes/kenzai/ZZ_WEBBJ/InitialBJGenerator/'
+ 3328  ls 
+ 3327  exit
+ 3326  ls -al
+ 3325  clear
+ 3324  ls -al
+ 3323  clear
+ 3322  pwd
+ 3321  ls -al
+ 3320  clear
+ 3319  ls -al
+ 3318  pwd
+ 3317  clear
+ 3316  honbadndekejiorueqwyh
+ 3315  clear
+ 3314  http://10.11.11.21:8080/mcpvc/loginForm
+ 3313  pwd
+ 3312  ls 
+ 3311  clear
+ 3310  cd keybord/qmk_firmware/
+ 3309  pwd
+ 3308  clear
+ 3307  ls -al
+ 3306  history
+ 3305  clear
+ 3304  dDD
+ 3303  clear
+ 3302  ls -al
+ 3301  ls al
+ 3300  pwd
+ 3299  clear
+ 3298  ls -al
+ 3297  clear
+ 3296  ls -al
+ 3295  clear
+ 3294  pwd
+ 3293  ls 
+ 3292  clear
+ 3291  ls -al
+ 3290  pwd
+ 3289  dir
+ 3288  clear
+ 3287  ls -al
+ 3286  clear
+ 3285  mdfind -onlyin ~/ -name "aaaaaaaaa"
+ 3284  mdfind -onlyin ~/ -name "keymap.h"
+ 3283  mdfind -onlyin ~/ -name "crkdb"
+ 3282  clear
+ 3281  ls -al
+ 3280  ls _al
+ 3279  pwd
+ 3278  cd /Users/kreis/keybord/qmk_firmware
+ 3277  pwd
+ 3276  cd /Users/kreis/keybord/qmk_firmware
+ 3275  pwd
+ 3274  cd 
+ 3273  cd /keybord
+ 3272  cd ./keybord/
+ 3271  cd ../
+ 3270  cd ../keybord/qmk_firmware/ 
+ 3269  clear
+ 3268  cd keybord/qmk_firmware/ \n     
+ 3267  open -a Finder ./
+ 3266  cd keybord/qmk_firmware
+ 3265  cd
+ 3264  cd ..
+ 3263  cd..
+ 3262  open -a Finder ./
+ 3261  cd keybord/qmk_firmware/keyboards/ut472/keymaps/default
+ 3260  pwd
+ 3259  cd ..
+ 3258  open -a Finder ./
+ 3257  ls
+ 3256  cd keybord/qmk_firmware/keyboards/crkbd/keymaps/custom
+ 3255  pwd
+ 3254  open -a Finder ./
+ 3253  cd custom
+ 3252  ls 
+ 3251  cd keymaps
+ 3250  ls -al
+ 3249  cd ut472/
+ 3248  cd ..
+ 3247  ut4
+ 3246  pwd
+ 3245  cd..
+ 3244  pwd
+ 3243  　pwd
+ 3242  ls -al 
+ 3241  ls -al
+ 3240  cp -r custom bkcustom
+ 3239  cp 
+ 3238  ls
+ 3237  cd keybord/qmk_firmware/keyboards/crkbd/keymaps
+ 3236  pwd
+ 3235  open -a Finder ./
+ 3234  pwd
+ 3233  clear
+ 3232  ls -al
+ 3231  clear
+ 3230  ls -al
+ 3229  clear
+ 3228  ls  -al
+ 3227  clear
+ 3226  ls -al
+ 3225  ls -l
+ 3224  clear
+ 3223  vim keymap.c
+ 3222  ls 
+ 3221  cd custom
+ 3220  ls -al
+ 3219  cd keybord/qmk_firmware/keyboards/crkbd/keymaps
+ 3218  pwd
+ 3217  ls -al
+ 3216  clear
+ 3215  ls -al
+ 3214  clear
+ 3213  make crkbd:custom:avrdude
+ 3212  make crkbd:custom
+ 3211  make crkbd:custom:avrdude
+ 3210  make crkbd:custom
+ 3209  clear
+ 3208  make crkbd:custom:avrdude
+ 3207  pwd
+ 3206  ls -al
+ 3205  clerar
+ 3204  ls -al
+ 3203  pwd
+ 3202  [wd
+ 3201  cd ..
+ 3200  pwd
+ 3199  cd ..
+ 3198  dir
+ 3197  ls -al
+ 3196  clear
+ 3195  clerar
+ 3194  ls -al
+ 3193  clear
+ 3192  pwd
+ 3191  clear
+ 3190  ls -al
+ 3189  clear
+ 3188  ls -al
+ 3187  clearf
+ 3186  pwd
+ 3185  ls -al
+ 3184  clear
+ 3183  ls -al 
+ 3182  clear
+ 3181  vim config.h
+ 3180  ls
+ 3179  pwd
+ 3178  cd ..
+ 3177  ls -al
+ 3176  clear
+ 3175  vim keymap.c
+ 3174  ls
+ 3173  ;s
+ 3172  cd ichio00
+ 3171  pwd
+ 3170  ls
+ 3169  cd ..
+ 3168  vim keymap.c
+ 3167  ls 
+ 3166  cd ichio
+ 3165  ls -al
+ 3164  cd keymaps
+ 3163  ls -al
+ 3162  cd keyboards/dz60
+ 3161  cd keyboards/dz6\60
+ 3160  pwd
+ 3159  clear
+ 3158  make ut472:custom
+ 3157  pwd
+ 3156  make ut472:default:dfu
+ 3155  make ut472:default
+ 3154  cd keybord/qmk_firmware
+ 3153  cd
+ 3152  k
+ 3151  make crkbd:custom:avrdude
+ 3150  make crkbd:custom
+ 3149  cd keybord/qmk_firmware
+ 3148  exit
+ 3147  clear
+ 3146  ls -al
+ 3145  clear
+ 3144  pwd
+ 3143  cd
+ 3142  pwd
+ 3141  cd ..
+ 3140  pwd
+ 3139  clear
+ 3138  ls -al
+ 3137  ls - al
+ 3136  pwd
+ 3135  clear
+ 3134  ls -al
+ 3133  clear
+ 3132  ls 
+ 3131  cp -r  custom bkcustom
+ 3130  cp -g custom bkcustom
+ 3129  cd keymaps
+ 3128  ls 
+ 3127  cd keybord/qmk_firmware/keyboards/crkbd
+ 3126  cd kreis
+ 3125  pwd
+ 3124  ls 
+ 3123  cd ..
+ 3122  make crkbd:custom:avrdude
+ 3121  make crkbd:custom
+ 3120  make crkbd:custom:avrdude
+ 3119  make crkbd:custom
+ 3118  clear
+ 3117  make crkbd:custom:avrdude
+ 3116  make crkbd:custom
+ 3115  make crkbd:custom:avrdude
+ 3114  make crkbd:custom
+ 3113  make crkbd:custom:avrdude
+ 3112  make crkbd:custom
+ 3111  cd keybord/qmk_firmware
+ 3110  pwd
+ 3109  yahoo.co.jp
+ 3108  ls -al
+ 3107  clear
+ 3106  exit
+ 3105  clear
+ 3104  ls -al
+ 3103  clear
+ 3102  ls -al
+ 3101  clear
+ 3100  make\tcrkbd:custom:avrdude
+ 3099  make\tcrkbd:custom
+ 3098  history 3095
+ 3097  history
+ 3096  clear
+ 3095  make crkbd:custom:avrdude
+ 3094  make crkbd:custom
+ 3093  ls -al
+ 3092  clear
+ 3091  make crkbd:custom
+ 3090  make crkbd:custom:avrdude
+ 3089  make crkbd:custom
+ 3088  make crkbd:custom:avrdude
+ 3087  make crkbd:custom
+ 3086  make crkbd:default
+ 3085  make crkbd:custom
+ 3084  pwd
+ 3083  ;owd
+ 3082  owd
+ 3081  clear
+ 3080  open -a Finder ./
+ 3079  clear
+ 3078  make crkbd:custom:avrdude
+ 3077  make crkbd:custom
+ 3076  pwd
+ 3075  clear
+ 3074  open -a Finder ./
+ 3073  ls -al
+ 3072  cd keyboards/crkbd/keymaps/custom
+ 3071  cd keybord/qmk_firmware
+ 3070  pwd
+ 3069  cd keybord/qmk_firmware
+ 3068  clear
+ 3067  exit
+ 3066  clear
+ 3065  lear
+ 3064  ls -al 
+ 3063  cd
+ 3062  ls -al
+ 3061  clear
+ 3060  ls 
+ 3059  cd keyboards/ut472/
+ 3058  clear
+ 3057  pwd -aux 
+ 3056  clear
+ 3055  ls -al 
+ 3054  ls -al
+ 3053  clear
+ 3052  make crkbd:custom
+ 3051  clear
+ 3050  ddddd
+ 3049  make crkbd:custom:avrdude
+ 3048  pwd
+ 3047  clear
+ 3046  make crkbd:custom
+ 3045  make crkbd:custom:avrdude
+ 3044  make crkbd:custom
+ 3043  clear
+ 3042  make crkbd:custom:avrdude
+ 3041  make crkbd:custom
+ 3040  cd keybord/qmk_firmware/
+ 3039  cd
+ 3038  vim config.h 
+ 3037  ls
+ 3036  open -a Finder ./
+ 3035  vim keymap.c
+ 3034  cd custom
+ 3033  cd ..
+ 3032  vim keymap.c 
+ 3031  cd default
+ 3030  cd ..
+ 3029  open -a Finder ./
+ 3028  ls 
+ 3027  cd crkbd/keymaps/custom
+ 3026  cd keyboards/
+ 3025  clear
+ 3024  ls -al
+ 3023  clear
+ 3022  ls -al
+ 3021  clear
+ 3020  make crkbd:custom:avrdude
+ 3019  cd keybord/qmk_firmware
+ 3018  vim keymap.c 
+ 3017  ls -al
+ 3016  cd default
+ 3015  cd keymaps
+ 3014  ls -al
+ 3013  cd keyboards/crkbd
+ 3012  cd ..
+ 3011  vim keymap.c 
+ 3010  ls
+ 3009  pwd
+ 3008  clear
+ 3007  vim readme.md
+ 3006  ls
+ 3005  cd default
+ 3004  cd de
+ 3003  ls 
+ 3002  cd keymaps
+ 3001  vim readme.md
+ 3000  ls -al
+ 2999  cd ut472
+ 2998  cd keyboards
+ 2997  pwd
+ 2996  cd ..
+ 2995  ls -al
+ 2994  clear
+ 2993  vim quantum.h
+ 2992  vim quantum.c
+ 2991  ls 
+ 2990  cd quantum/
+ 2989  ls 
+ 2988  cd ..
+ 2987  ls
+ 2986  pwd
+ 2985  cd ..
+ 2984  vim ut472.h
+ 2983  pwd
+ 2982  vim config.h
+ 2981  vim ut472.c
+ 2980  vim uty472.c
+ 2979  ls 
+ 2978  cd ..
+ 2977  ls
+ 2976  cd ..
+ 2975  ls
+ 2974  vim keymap.c 
+ 2973  pwd
+ 2972  clear
+ 2971  kaa
+ 2970  clear
+ 2969  ls -al
+ 2968  clear
+ 2967  ls -al
+ 2966  clear
+ 2965  pwd
+ 2964  clear
+ 2963  vim keymap.c 
+ 2962  cd keymaps/custom
+ 2961  vim rules.mk 
+ 2960  ls 
+ 2959  pwd
+ 2958  cd ..
+ 2957  ls 
+ 2956  cd keybord/qmk_firmware/keyboards/ut472/keymaps
+ 2955  ls 
+ 2954  cd 
+ 2953  ls
+ 2952  cd ..
+ 2951  vim readme.md
+ 2950  ls
+ 2949  cd custom
+ 2948  ls -al
+ 2947  cp -r default custom
+ 2946  cp -g default custom
+ 2945  pwd
+ 2944  cd ..
+ 2943  ls -al
+ 2942  clear
+ 2941  open -a Finder ./
+ 2940  cd default
+ 2939  cd keymaps
+ 2938  ls -al
+ 2937  ut472
+ 2936  pwd
+ 2935  clear
+ 2934  ls -al
+ 2933  clear
+ 2932  ls -al 
+ 2931  cd keybord/qmk_firmware/keyboards
+ 2930  clear
+ 2929  open -a Finder ./
+ 2928  vim keymap.c
+ 2927  ls -al
+ 2926  cd default
+ 2925  cd keymaps
+ 2924  cd keyboards/ut472/
+ 2923  cd qmk_firmware/
+ 2922  cd keybord/
+ 2921  clear
+ 2920  pwd
+ 2919  clear
+ 2918  ''''''''"""""""""''''''""""""\\\\\\\\''''\|||||||||''''''''\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nq\nquit\nbye\n:\n"'"'
+ 2917  clear
+ 2916  ''''''''"""""""""''''''""""""\\\\\\\\''''\|||||||||''''''''\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nq\nquit\nbye\n:\n"
+ 2915  clear
+ 2914  ls -al
+ 2913  clear
+ 2912  ''''''''"""""""""''''''""""""\\\\\\\\''''\|||||||||''''''''\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nclear\nclear\nq\nquit\nbye\n:\n"
+ 2911  clear
+ 2910  ls )};:?~~~~;2~~~~...>>>>,,,<<<..~~~~~~
+ 2909  clear
+ 2908  mdfind -onlyin ~/ -name 'crkbd.h'
+ 2907  mdfind -onlyin ~/ -name 'connected.sh'
+ 2906  cd ..
+ 2905  ls -al
+ 2904  cd MacOS
+ 2903  cd Mac
+ 2902  ls -al
+ 2901  cd Contents
+ 2900  ls -al
+ 2899  ls
+ 2898  lls -
+ 2897  cd Tunnelblick.app
+ 2896  ls -al
+ 2895  cd Applications
+ 2894  cd /
+ 2893  cd 
+ 2892  ls -al
+ 2891  pwd
+ 2890  cd ..
+ 2889  ls -al
+ 2888  cd ..
+ 2887  pwd
+ 2886  cd 
+ 2885  mdfind -onlyin ~/ -name "connected.sh"
+ 2884  kaangawkane 
+ 2883  ls -al
+ 2882  clear
+ 2881  ls -al
+ 2880  pwd
+ 2879  cd ..
+ 2878  ls -al
+ 2877  clear
+ 2876  ls -al 
+ 2875  ls -al
+ 2874  cd private
+ 2873  ls -l
+ 2872  ls -alx
+ 2871  ls -al
+ 2870  pwd
+ 2869  cd
+ 2868  clear
+ 2867  ls -al
+ 2866  ls
+ 2865  ls -al |grep crk
+ 2864  ls -al |grep crk*
+ 2863  ls -al |grep k
+ 2862  ls -al
+ 2861  pwd
+ 2860  ls -al | grep keyb\n
+ 2859  clear
+ 2858  ls -al |less
+ 2857  clear
+ 2856  ls -al | more
+ 2855  ls -al 
+ 2854  ls -al
+ 2853  pwd
+ 2852  ls -al
+ 2851  clear
+ 2850  clearf
+ 2849  ls -al
+ 2848  clear
+ 2847  make crkbd:custom:avrdude
+ 2846  make crkbd:custom
+ 2845  cd keybord/qmk_firmware
+ 2844  cd
+ 2843  vim keymap.c
+ 2842  vim keymap.c 
+ 2841  ls -al
+ 2840  cd keymaps/custom
+ 2839  ls -al
+ 2838  cd keyboards/crkbd
+ 2837  pwd
+ 2836  ls
+ 2835  clear
+ 2834  clar
+ 2833  make crkbd:custom:avrdude
+ 2832  make crkbd:custom
+ 2831  make crkdb:custom avrdude
+ 2830  ls -al |grep crk
+ 2829  ls -al
+ 2828  ls -alx
+ 2827  ls -al
+ 2826  make crkdb:custom avrdude
+ 2825  cd keybord/qmk_firmware
+ 2824  cd
+ 2823  make crkbd:custom avrdude
+ 2822  vim keymap.c
+ 2821  ls -al
+ 2820  cd custom
+ 2819  ls -al
+ 2818  cd keyboards/crkbd/keymaps
+ 2817  make crkbd:custom
+ 2816  ls -al
+ 2815  make crkbd:custom avrdude
+ 2814  pwd
+ 2813  [wd
+ 2812  make crkbd:custom avrdude
+ 2811  clear
+ 2810  make crkbd:custom
+ 2809  cd keybord/qmk_firmware
+ 2808  cd
+ 2807  open -a Finder ./
+ 2806  cd keybord/qmk_firmware/keyboards/crkbd/keymaps/custom
+ 2805  pwd
+ 2804  cd
+ 2803  clear
+ 2802  cl;;``````~~~~~~
+ 2801  ls  -al ------
+ 2800  clear
+ 2799  pwd
+ 2798  cd
+ 2797  cd ..
+ 2796  pwd
+ 2795  [wd
+ 2794  clear
+ 2793  vim keymap.c
+ 2792  ls -al
+ 2791  cd castom
+ 2790  ls -al
+ 2789  cd keymaps
+ 2788  ls -al
+ 2787  cd attack25
+ 2786  ls -al
+ 2785  clear
+ 2784  ls -al
+ 2783  cd keyboards
+ 2782  pwd
+ 2781  ls -al
+ 2780  dir
+ 2779  ls -al
+ 2778  clear
+ 2777  ls sllkdjfklsd jf1kl1kljkljkl
+ 2776  clear
+ 2775  ls  -al
+ 2774  cd keybord/qmk_firmware
+ 2773  pwd
+ 2772  dirdir
+ 2771  clear
+ 2770  ls -al
+ 2769  dir
+ 2768  clear
+ 2767  ls -al
+ 2766  clear
+ 2765  ls -al
+ 2764  clear
+ 2763  ls -al
+ 2762  exit
+ 2761  ls -al
+ 2760  clear
+ 2759  ls -al
+ 2758  clear
+ 2757  ls -al\\n
+ 2756  clear
+ 2755  ls -al
+ 2754  clear
+ 2753  pwd
+ 2752  clear
+ 2751  ls -al
+ 2750  vim keymap.c 
+ 2749  open -a Finder ./
+ 2748  cd keyboards/ut472/keymaps/default/
+ 2747  clear
+ 2746  cd keybord/qmk_firmware/
+ 2745  ls -al
+ 2744  ls al
+ 2743  clear
+ 2742  exit
+ 2741  /pooooppppppppp
+ 2740  .
+ 2739  ///////////////////////////////
+ 2738  nnnnnnnnnnnNNNNNNmmmm/nnnnnnnnnnnnnNNNNNNs
+ 2737  z/aaaaaaaaaaaaaaaa     ；；；ｐｐｐｐｐｐｐｐ・；
+ 2736  ls -al
+ 2735  dir
+ 2734  clear
+ 2733  ls -al
+ 2732  clear
+ 2731  pip3 install keymapviz
+ 2730  ls -al
+ 2729  lls -
+ 2728  clear
+ 2727  dir
+ 2726  ls -al
+ 2725  clear
+ 2724  ls -al
+ 2723  clear
+ 2722  dir
+ 2721  ls -al
+ 2720  clear
+ 2719  ls -al
+ 2718  keymapvix.py
+ 2717  cd 
+ 2716  cd ..
+ 2715  keymapviz.py 
+ 2714  mdfind -onlyin ~/ -name "requirements.txt"
+ 2713  ls -al
+ 2712  cd keymapviz
+ 2711  ls -al
+ 2710  ls-al
+ 2709  pip3.7 install -r requirements.txt
+ 2708  cd keymapviz
+ 2707  ls -al
+ 2706  pip3.7 install -r requirements.txt
+ 2705  pip3.7 -v
+ 2704  pip -version
+ 2703  clear
+ 2702  ls -al
+ 2701  clear
+ 2700  brew doctor
+ 2699  brew docter
+ 2698  python3 -v
+ 2697  brew upgread python
+ 2696  brew install python3
+ 2695  python3 -v
+ 2694  pythone -v
+ 2693  pip install -r requirements.txt
+ 2692  brew install python3
+ 2691  pip install -r requirements.txt
+ 2690  brew update
+ 2689  pip install -r requirements.txt
+ 2688  ls
+ 2687  git clone  https://github.com/yskoht/keymapviz
+ 2686  cd
+ 2685  clear
+ 2684  skf
+ 2683  clear
+ 2682  ls -al
+ 2681  clear
+ 2680  ls  -al
+ 2679  clear
+ 2678  dir
+ 2677  clear
+ 2676  ls -al
+ 2675  clear
+ 2674  ls -al
+ 2673  clear
+ 2672  vim keymap.c
+ 2671  cd keyboards/crkbd/keymaps/custom
+ 2670  cd keybord/qmk_firmware
+ 2669  clear
+ 2668  ls -al
+ 2667  clear
+ 2666  ls -al
+ 2665  clear
+ 2664  cd home
+ 2663  homes
+ 2662  this home
+ 2661  home
+ 2660  ls oal
+ 2659  clear
+ 2658  pwd
+ 2657  cd keybord/qmk_firmware
+ 2656  pwd
+ 2655  clear
+ 2654  pwd
+ 2653  pwt
+ 2652  psw
+ 2651  pwt
+ 2650  pws
+ 2649  clear
+ 2648  ls -al
+ 2647  clear
+ 2646  df
+ 2645  clear
+ 2644  pwd
+ 2643  [wd
+ 2642  ls -al
+ 2641  clear
+ 2640  exit
+ 2639  vim readme.md
+ 2638  vim crkbd.c
+ 2637  ls -al
+ 2636  pwd
+ 2635  cd ..
+ 2634  clear
+ 2633  vim matrix.c
+ 2632  ls -al
+ 2631  cd rev1
+ 2630  ls -al
+ 2629  cd ..
+ 2628  ls -al
+ 2627  cd lib
+ 2626  ls -al
+ 2625  ls -a;
+ 2624  cd ..
+ 2623  ls -al
+ 2622  cd ..
+ 2621  vim keymap.c
+ 2620  ls -al
+ 2619  clear
+ 2618  vim rules.mk
+ 2617  ls -al
+ 2616  cd crkbd/keymaps/default
+ 2615  cd keybord/qmk_firmware/keyboards
+ 2614  exit
+ 2613  clear
+ 2612  ls -al
+ 2611  clear
+ 2610  dir
+ 2609  clear
+ 2608  ls -al
+ 2607  clear
+ 2606  ls -al
+ 2605  clear
+ 2604  pwd
+ 2603  pqd
+ 2602  dir
+ 2601  clear
+ 2600  ls -al
+ 2599  clear
+ 2598  make ATTACK25=back attack25:default:avrdude
+ 2597  make ATTACK25=back attack25:default
+ 2596  *-/5--640111111111111410004100077777777
+ 2595  make ATTACK25=under attack25:default:avrdude
+ 2594  make ATTACK25=under attack25:default
+ 2593  k25:default
+ 2592  make attack25:default:avrdude
+ 2591  make attack25:default
+ 2590  make ATTACK25=under attack25:custom
+ 2589  cd keybord/qmk_firmware
+ 2588  cd 
+ 2587  open -a Finder ./
+ 2586  vim rules.mk
+ 2585  ls -al
+ 2584  cd castom
+ 2583  ls -al
+ 2582  cd keymaps
+ 2581  vim rules.mk
+ 2580  ls -al
+ 2579  cd ..
+ 2578  vim rules.mk
+ 2577  ls -al
+ 2576  cd rev1
+ 2575  ls -al
+ 2574  l s-al
+ 2573  cd keyboards/attack25
+ 2572  ls -al
+ 2571  make ATTACK25=under attack25:defaul
+ 2570  cd keybord/qmk_firmware
+ 2569  cd 
+ 2568  vi rules.mk
+ 2567  ls -al
+ 2566  cd keyboards/attack25/keymaps/default
+ 2565  make ATTACK25=under attack25:defaul
+ 2564  ls -al
+ 2563  clear
+ 2562  git clone https://github.com/monksoffunk/qmk_firmware/tree/attack25
+ 2561  git clone https://github.com/monksoffunk/qmk_firmware/tree/attack25/keyboards
+ 2560  clear
+ 2559  git clone github.com/monksoffunk/qmk_firmware/tree/attack25/keyboards/attack25
+ 2558  git clone https://github.com/monksoffunk/qmk_firmware/tree/attack25/keyboards/attack25
+ 2557  clone https://github.com/monksoffunk/qmk_firmware/tree/attack25/keyboards/attack25
+ 2556  ls -al
+ 2555  clear
+ 2554  make ATTACK25=under attack25:default
+ 2553  clear
+ 2552  pwd
+ 2551  mdfind -onlyin ~/ -name "QMK_KEYBOARD_H"
+ 2550  mdfind -onlyin ~/ -name "qmk"
+ 2549  ls -al |grep q
+ 2548  ls -al |grep qmk
+ 2547  ls -al
+ 2546  cd ..
+ 2545  ls -al
+ 2544  cd avr
+ 2543  ls -al
+ 2542  cd drivers
+ 2541  ls -al
+ 2540  make ATTACK25=under attack25:keiri
+ 2539  cd keybord/qmk_firmware
+ 2538  cd
+ 2537  open -a Finder ./
+ 2536  clear
+ 2535  if\n/`n```\nN\n\ny\nn\n;\nexit\nquit\n:\n;\ndone
+ 2534  cd keyboards/attack25/keymaps/keiri
+ 2533  make ATTACK25=under attack25:keiri
+ 2532  cd keybord/qmk_firmware
+ 2531  exit
+ 2530  clear
+ 2529  ls -al
+ 2528  clear
+ 2527  cd
+ 2526  clear
+ 2525  ls -al
+ 2524  dir
+ 2523  ls -al
+ 2522  clear
+ 2521  ls -al
+ 2520  clear
+ 2519  vim keymap.c 
+ 2518  ls -al
+ 2517  cd keybord/qmk_firmware/keyboards/crkbd/keymaps/custom
+ 2516  clear
+ 2515  ls -al
+ 2514  cd 
+ 2513  pwd
+ 2512  clear
+ 2511  ls -al
+ 2510  make crkbd:custom:avrdude
+ 2509  make crkbd:custom:arvdude
+ 2508  make crkbd:custom
+ 2507  cd keybord/qmk_firmware/
+ 2506  make crkbd:custom
+ 2505  pwd
+ 2504  clear
+ 2503  123
+ 2502  ls -al
+ 2501  make crkbd:custom:avrdude
+ 2500  make crkbd:custom
+ 2499  cd keybord/qmk_firmware
+ 2498  cd
+ 2497  open -a Finder ./
+ 2496  vim keymap.c
+ 2495  custom
+ 2494  ls -al
+ 2493  de default/
+ 2492  cd keyboards/crkbd/keymaps
+ 2491  cd keybord/qmk_firmware
+ 2490  cd
+ 2489  pwd
+ 2488  ls -al
+ 2487  ｌｓ
+ 2486  clear
+ 2485  vim keymap.c
+ 2484  cd keymaps/default
+ 2483  vim readme.md
+ 2482  ls -al
+ 2481  cd treadstone48
+ 2480  ls -al
+ 2479  ls -al |grep ut
+ 2478  ls -al |grep UT
+ 2477  cd keyboards
+ 2476  ls -al
+ 2475  cd keybord/qmk_firmware
+ 2474  pwd
+ 2473  pws
+ 2472  aaaa
+ 2471  pws
+ 2470  clear
+ 2469  cdlear
+ 2468  ls -al
+ 2467  clear
+ 2466  ls -al
+ 2465  dir
+ 2464  clear
+ 2463  ls -al
+ 2462  ls 
+ 2461  ls -al
+ 2460  pwd
+ 2459  dir
+ 2458  clear
+ 2457  ls -pal
+ 2456  clear
+ 2455  ls -al
+ 2454  make treadstone48:default:avrdude
+ 2453  make treadstone48:default
+ 2452  pwd
+ 2451  cd ..
+ 2450  ls -al
+ 2449  cd treadstone48
+ 2448  cd keyboards
+ 2447  cd keybor
+ 2446  make tredstone48:default
+ 2445  make tredstoner48:default
+ 2444  pwd
+ 2443  clear
+ 2442  ls -al
+ 2441  clear
+ 2440  make treadstone48:default:avrdude
+ 2439  pwd
+ 2438  ls -al
+ 2437  clear
+ 2436  make treadstone48:default:avrdude
+ 2435  make treadstone48:default
+ 2434  pwd
+ 2433  cd ..
+ 2432  pwd
+ 2431  cd keyboards/treadstone48
+ 2430  clear
+ 2429  ls 
+ 2428  clear
+ 2427  [wd
+ 2426  ls -al
+ 2425  clear
+ 2424  ls -al
+ 2423  ls
+ 2422  clear
+ 2421  ls -al
+ 2420  ??｀ｌｓｄｆ
+ 2419  clear
+ 2418  dir
+ 2417  clear
+ 2416  ls -al
+ 2415  clear
+ 2414  ls -al
+ 2413  clear
+ 2412  ps aux
+ 2411  pwd
+ 2410  clear
+ 2409  ls -al
+ 2408  clear
+ 2407  ls -al
+ 2406  clear
+ 2405  ls
+ 2404  ls -al
+ 2403  dir
+ 2402  ls -al
+ 2401  clear
+ 2400  clearf
+ 2399  \t\t\t\t\tdlear
+ 2398  make crkbd:custom:avrdude
+ 2397  make crkbd:custom:abrdude
+ 2396  make crkbd:custom
+ 2395  pwd
+ 2394  make cbrkb:custom
+ 2393  cd keybord/qmk_firmware
+ 2392  cd
+ 2391  open -a Finder ./
+ 2390  cd keymaps/custom
+ 2389  cd keyboards/crkbd
+ 2388  cd crkbd
+ 2387  cd keybord/qmk_firmware
+ 2386  pwd
+ 2385  dir
+ 2384  clear
+ 2383  ls -al
+ 2382  pwd
+ 2381  cd
+ 2380  pwd
+ 2379  clear
+ 2378  make crkbd:custom:avrdude
+ 2377  clear
+ 2376  make crkbd:custom:avrdude
+ 2375  make crkbd:custom
+ 2374  cd keybord/qmk_firmware
+ 2373  cd 
+ 2372  vim keymap.c
+ 2371  ls -al
+ 2370  cd keyboards/crkbd/keymaps/custom
+ 2369  pwd
+ 2368  [wd
+ 2367  clear
+ 2366  make crkbd:custom:avrdude
+ 2365  make crkbd:custom
+ 2364  pwd
+ 2363  [wd
+ 2362  cd ..
+ 2361  vi keymap.c
+ 2360  cd keymaps/custom
+ 2359  cd keyboards/crkbd
+ 2358  pwd
+ 2357  clear
+ 2356  make crkbd:custom:avrdude
+ 2355  cd keybord/qmk_firmware:avrdude
+ 2354  make crkbd:custom
+ 2353  cd keybord/qmk_firmware
+ 2352  cd
+ 2351  pwd
+ 2350  cd keyboards/crkbd/keymaps/custom
+ 2349  vim rules.mk
+ 2348  ls -al
+ 2347  cd keyboards/crkbd/keymaps/custom
+ 2346  make crkbd:custom
+ 2345  cd keybord/qmk_firmware
+ 2344  cd 
+ 2343  open -a Finder ./
+ 2342  vim keymap.c 
+ 2341  ls -al
+ 2340  pwd
+ 2339  vim rules.mk 
+ 2338  ls -al
+ 2337  clear
+ 2336  ls -al
+ 2335  cd custom
+ 2334  cd ..
+ 2333  vim rules.mk 
+ 2332  ls -al
+ 2331  cd default
+ 2330  ls -al
+ 2329  cd keymaps/
+ 2328  vim rules.mk 
+ 2327  ls -al
+ 2326  pwd
+ 2325  cd crkbd
+ 2324  cd keyboards/
+ 2323  pwd
+ 2322  ls -al
+ 2321  clear
+ 2320  ls -al
+ 2319  clear
+ 2318  make crkbd:custom:avrdude
+ 2317  make crkbd:custom
+ 2316  cd keybord/qmk_firmware
+ 2315  pwd
+ 2314  ls -al
+ 2313  pwd
+ 2312  clear
+ 2311  pwd
+ 2310  pws
+ 2309  clear
+ 2308  ls -al |grep ke
+ 2307  ls -al
+ 2306  clear
+ 2305  ls -al |grep keybor
+ 2304  ls -al |grep keybord
+ 2303  ls -al |grep kebord
+ 2302  ls -al
+ 2301  clear
+ 2300  pwd
+ 2299  cd
+ 2298  pwd
+ 2297  ls -al
+ 2296  clear
+ 2295  ls -al
+ 2294  ls 
+ 2293  ls-al
+ 2292  ps aux
+ 2291  ps -au
+ 2290  ps -aul
+ 2289  clear
+ 2288  ps -auy-
+ 2287  ps -aux
+ 2286  dir
+ 2285  clear 
+ 2284  ls -al 
+ 2283  ls -al
+ 2282  clear
+ 2281  ls -al
+ 2280  ls
+ 2279  make crkbd:custom:avrdude
+ 2278  make crkbd:custom
+ 2277  pwd
+ 2276  make crkb:custom
+ 2275  cd keybord/qmk_firmware
+ 2274  cd
+ 2273  pwd
+ 2272  ls -al
+ 2271  cd custom
+ 2270  pwd
+ 2269  cd keybord/qmk_firmware/keyboards/crkbd
+ 2268  pwd
+ 2267  cd
+ 2266  pwd
+ 2265  ls -al
+ 2264  clear
+ 2263  ls -al
+ 2262  clear
+ 2261  pwd
+ 2260  cd ..
+ 2259  ls -al
+ 2258  clear
+ 2257  ls -al
+ 2256  make crkbd:custom:avrdude
+ 2255  make crkbd:custom
+ 2254  open -a Finder ./
+ 2253  make crkbd:custom
+ 2252  pwd
+ 2251  p[wd
+ 2250  cd keybord/qmk_firmware/
+ 2249  cd
+ 2248  cd ..
+ 2247  open -a Finder ./
+ 2246  pwd
+ 2245  ~S~;2~S~;2~S~;2~S~SSSSS~;2~;2~S~;2~;2~o.    lk  
+ 2244  open -a Finder ./
+ 2243  ls -al
+ 2242  ls
+ 2241  pwd
+ 2240  cd custom/
+ 2239  cd ..
+ 2238  vim keymap.c 
+ 2237  cd keybord/qmk_firmware/keyboards/crkbd/keymaps/default
+ 2236  cd
+ 2235  ls -al
+ 2234  clear
+ 2233  oooooooooooooooooooooooooooooooooooooo
+ 2232  clear
+ 2231  ls -al
+ 2230  clear
+ 2229  cl....,,,,,,mmmmm,,,,,,<<<<>>>>>>PPPPOOOOII))))(((**&&&^^^^%%%%%$$$######@@3221
+ 2228  ps al
+ 2227  ps aul
+ 2226  clear
+ 2225  ls -al
+ 2224  clear
+ 2223  ls -al
+ 2222  pwd
+ 2221  clear
+ 2220  ls -al
+ 2219  ls -
+ 2218  ls -al
+ 2217  ls
+ 2216  make crkbd:custom:avrdude
+ 2215  make crkbd:custom
+ 2214  cd keybord/qmk_firmware
+ 2213  cd
+ 2212  open -a Finder ./
+ 2211  pwd
+ 2210  open -a Finder ./
+ 2209  cd keybord/qmk_firmware/keyboards/crkbd/keymaps/custom
+ 2208  pwd
+ 2207  vim keymap.c 
+ 2206  vim keymap.c
+ 2205  vim
+ 2204  cd custom
+ 2203  ls -al
+ 2202  ls
+ 2201  cp -r default custom
+ 2200  cp -R
+ 2199  pwd
+ 2198  cd keymaps/
+ 2197  cp -r default custom
+ 2196  pwd
+ 2195  cd keybord/qmk_firmware/keyboards/crkbd
+ 2194  cd
+ 2193  cd keybord/qmk_firmware/keyboards/
+ 2192  cd keybord/qmk_firmware/keyboar
+ 2191  cd
+ 2190  cd keybord/qmk_firmware/keyboards/crkbd
+ 2189  cd
+ 2188  ls -al'\n\n\n\nq\n;\n\n\nq\nquit\nq\n\n\n\n\n\n'
+ 2187  cd ..
+ 2186  cd..
+ 2185  vim keymap.c 
+ 2184  cd jarred
+ 2183  ls -al
+ 2182  cd ..
+ 2181  pwd
+ 2180  cd..
+ 2179  vim keymap.c 
+ 2178  ls
+ 2177  vim
+ 2176  cd keybord/qmk_firmware/keyboards/crkbd/keymaps/edvorakjp
+ 2175  cd
+ 2174  ls
+ 2173  ls -alp
+ 2172  pwd
+ 2171  cd ..
+ 2170  ls
+ 2169  vim keymap.c
+ 2168  vim
+ 2167  cd keybord/qmk_firmware/keyboards/crkbd/keymaps/like_jis
+ 2166  cd
+ 2165  vim keymap.c
+ 2164  ls -al
+ 2163  ls
+ 2162  cd keybord/qmk_firmware/keyboards/crkbd/keymaps/default
+ 2161  pwd
+ 2160  cd
+ 2159  pwd
+ 2158  clear
+ 2157  ls 
+ 2156  ls
+ 2155  clear
+ 2154  cd keyboards/
+ 2153  ls -al
+ 2152  ls 
+ 2151  ls
+ 2150  p
+ 2149  clear
+ 2148  kanagawaken
+ 2147  clear
+ 2146  asaaa;;;|)\,{{{{===--nmmmmmjjjj~~~~~~~~~~~~~~~~~~SSSS;2~;2~;2~;2~;2~;2~;2~;2~;2~7777888999bbbbvvvdddd++[[;2~ ’’’
+ 2145  clear
+ 2144  ls -al
+ 2143  clear
+ 2142  ls -al
+ 2141  clear
+ 2140  make crkbd:default:avrdude
+ 2139  make crkbd:default
+ 2138  clear
+ 2137  make crkbd:default:avrdude
+ 2136  make crkbd:default
+ 2135  clear
+ 2134  make crkbd:default:avrdude
+ 2133  make crkbd:default:arvdude
+ 2132  clear
+ 2131  make crkbd:clear
+ 2130  make crkbd:default
+ 2129  clear
+ 2128  clearclear
+ 2127  ls -al
+ 2126  dir
+ 2125  make chkbd:default
+ 2124  pwd
+ 2123  chkbd:default
+ 2122  cd ..
+ 2121  pwd
+ 2120  chkbd:default
+ 2119  make chkbd:default
+ 2118  chkbd:default
+ 2117  clear
+ 2116  cleafr
+ 2115  cd ch
+ 2114  ls -al
+ 2113  clear
+ 2112  cd keyboards
+ 2111  ls -al
+ 2110  dir
+ 2109  make chkbd:default
+ 2108  pwd
+ 2107  clear
+ 2106  cear
+ 2105  ls -al
+ 2104  ls -
+ 2103  clear
+ 2102  ls -al
+ 2101  clear
+ 2100  clerar
+ 2099  make dz60:ichio00:dfu
+ 2098  cd keybord/qmk_firmware
+ 2097  cd
+ 2096  pwd
+ 2095  cd ..
+ 2094  make dz60:ichio00:dfu
+ 2093  vim keymap.c
+ 2092  cd keyboards/dz60/keymaps/256k_HHKB
+ 2091  pwd
+ 2090  clear
+ 2089  ls -al
+ 2088  clear
+ 2087  ls -al
+ 2086  clear
+ 2085  make dz60:ichio00:dfu
+ 2084  dz60:ichio00:dfu
+ 2083  make dz60:ichio00
+ 2082  cd keybord/qmk_firmware
+ 2081  cd
+ 2080  cd \\n;
+ 2079  open -a Finder ./
+ 2078  cd keyboards/dz60/keymaps/ichio00
+ 2077  pwd
+ 2076  ls -al
+ 2075  make ze60:60_ichio
+ 2074  cd keybord/qmk_firmware
+ 2073  cd
+ 2072  t
+ 2071  make dz60:ichio
+ 2070  cd keybord/qmk_firmware
+ 2069  cd 
+ 2068  open -a Finder ./
+ 2067  ls -al
+ 2066  cd keymaps/ichio
+ 2065  cd ..
+ 2064  open -a Finder ./
+ 2063  vim keymap.c
+ 2062  ls -al
+ 2061  cd 60_ichio
+ 2060  vim 60_ichio
+ 2059  ls -al
+ 2058  cd keyboards/dz60/keymaps
+ 2057  cd qmk_firmware
+ 2056  cd ..
+ 2055  make dz60:ichio
+ 2054  cd keybord/qmk_firmware
+ 2053  cd 
+ 2052  vi keymap.c
+ 2051  cd default
+ 2050  cd keymaps
+ 2049  ls -al
+ 2048  cd keybord/qmk_firmware/keyboards/hifumi
+ 2047  cd 
+ 2046  make dz60:ichio
+ 2045  cd keybord/qmk_firmware
+ 2044  cd 
+ 2043  pwd
+ 2042  vim keymap.c
+ 2041  cd 60_ichio
+ 2040  ls -al
+ 2039  clearf
+ 2038  dir
+ 2037  clear
+ 2036  ls -al
+ 2035  clear
+ 2034  ls -al
+ 2033  clear
+ 2032  pwd
+ 2031  cp -R 60_ansi 60_ichio
+ 2030  cd ..
+ 2029  pwd
+ 2028  cp -R 60_ansi 60_ichio
+ 2027  pwd
+ 2026  vim keymap.c
+ 2025  cd vim ke
+ 2024  vi readme.md
+ 2023  ls -al
+ 2022  cd 60_ansi
+ 2021  ls -la
+ 2020  cd ..
+ 2019  vi keymap.c
+ 2018  ls -al
+ 2017  cd keyboards/dz60/keymaps/ichio00
+ 2016  make dz60:ichio00
+ 2015  cd keybord/qmk_firmware
+ 2014  cd
+ 2013  ls -al
+ 2012  cd ichio00
+ 2011  cp -R default ichio00
+ 2010  ls -al
+ 2009  cd ..
+ 2008  pwd
+ 2007  make dz60:ichio
+ 2006  vi keymap.c
+ 2005  clear
+ 2004  cleqar
+ 2003  vi keyboards/dz60/keymaps/ichio/keymap.c
+ 2002  pwd
+ 2001  vi keymap.c
+ 2000  cd iso_6u_space
+ 1999  ls -al
+ 1998  pwd
+ 1997  cd ..
+ 1996  pwd
+ 1995  make dz60:ichio
+ 1994  pwd
+ 1993  make dz60:ichio
+ 1992  make dz60:default
+ 1991  pwd
+ 1990  mdfind -onlyin ~/ -name ".hex"
+ 1989  ls -al |grep *.hex
+ 1988  ls -al
+ 1987  cd keybord/qmk_firmware
+ 1986  cd 
+ 1985  ls -al
+ 1984  pwd
+ 1983  vi info.json
+ 1982  vi config.h
+ 1981  ls -al
+ 1980  clear
+ 1979  vim rules.mk
+ 1978  vi reles.mk
+ 1977  ls -al
+ 1976  cd ..
+ 1975  ls -al
+ 1974  cd ..
+ 1973  clear
+ 1972  vi keymap.c
+ 1971  ls -al
+ 1970  cd keymaps/ichio
+ 1969  cd keyboards/dz60
+ 1968  make dz60:ichio
+ 1967  cd qmk_firmware
+ 1966  ls -al
+ 1965  cd ..
+ 1964  make dz60:ichio
+ 1963  cd keybord/qmk_firmware
+ 1962  cd
+ 1961  open -a Finder ./
+ 1960  vim keymap.c
+ 1959  cd 60_ansi
+ 1958  cd ..
+ 1957  cd default
+ 1956  cd ..
+ 1955  vi keymap.c
+ 1954  cd 256k_HHKB
+ 1953  cd ..
+ 1952  vi keymap.c
+ 1951  cd iso_6u_space
+ 1950  ls -al
+ 1949  cd ..
+ 1948  vim keymap.c
+ 1947  cd keyboards/dz60/keymaps/60_ansi
+ 1946  pwd
+ 1945  vim keymap.c
+ 1944  cd keybord/qmk_firmware/keyboards/dz60/keymaps/ichio
+ 1943  pwd
+ 1942  make dz60:ichio
+ 1941  cd keybord/qmk_firmware
+ 1940  pwd
+ 1939  cd
+ 1938  pwd
+ 1937  cd ..
+ 1936  vim keymap.c
+ 1935  cd ichio
+ 1934  pwd
+ 1933  ls -al
+ 1932  clear
+ 1931  clear\\n;
+ 1930  ls -al
+ 1929  cd ..
+ 1928  ls
+ 1927  clear
+ 1926  ls -al
+ 1925  clear
+ 1924  vi keymap.c
+ 1923  ls -al
+ 1922  cd 256k_HHKB
+ 1921  cd ..
+ 1920  vi README.md
+ 1919  ls
+ 1918  cd Custom_HHKB
+ 1917  cd ..
+ 1916  vi keymap.c
+ 1915  ls -al
+ 1914  cd Custom_HHKB
+ 1913  cd ..
+ 1912  vi keymap.c
+ 1911  ls -al
+ 1910  cd 256k_HHKB
+ 1909  cd ..
+ 1908  vi keymap.c
+ 1907  cd 60_ansi
+ 1906  ls 
+ 1905  cd keymaps
+ 1904  ls -al
+ 1903  cd ..
+ 1902  open -a Finder ./
+ 1901  cd keymaps/ichio
+ 1900  cd dz60
+ 1899  pwd
+ 1898  cd ..
+ 1897  vi readme.md
+ 1896  vi dz60.c
+ 1895  ls -al
+ 1894  cd ..
+ 1893  ls -al
+ 1892  cd ..
+ 1891  vi keymap.c
+ 1890  vi readme.md
+ 1889  ls
+ 1888  vi keymap.c
+ 1887  cd 60_ansi
+ 1886  vi 60_ansi
+ 1885  cd ..
+ 1884  vi keymap.c
+ 1883  cd 60_ansi_arrow_fkeys
+ 1882  ls
+ 1881  cd ..
+ 1880  ls -al
+ 1879  clear
+ 1878  clerar
+ 1877  vi keymap.c
+ 1876  cd macos_64
+ 1875  cd ..
+ 1874  vi keymap.c
+ 1873  ls -al
+ 1872  cd 60_ansi
+ 1871  cd ..
+ 1870  open -a Finder ./
+ 1869  ls -al
+ 1868  cd ichio
+ 1867  cp -r default ichio
+ 1866  cd ..
+ 1865  ls 0al
+ 1864  cp -r default ichio
+ 1863  cp -g default ichio
+ 1862  open -a Finder ./
+ 1861  vi keymap.c
+ 1860  cd default
+ 1859  ls -al
+ 1858  clear
+ 1857  cd ..
+ 1856  ls -al
+ 1855  clear
+ 1854  vi keymap.c
+ 1853  cd iso_6u_space
+ 1852  cd ..
+ 1851  vi keymap.c
+ 1850  ls -al
+ 1849  cd 256k_HHKB
+ 1848  ls -al
+ 1847  cd ..
+ 1846  vi keymap.c
+ 1845  ls -al
+ 1844  cd Custom_HHKB
+ 1843  ls -al
+ 1842  cd keymaps
+ 1841  ls -al
+ 1840  clear
+ 1839  cd dz60
+ 1838  ls -al
+ 1837  cd keyboards
+ 1836  ls -la
+ 1835  cd keybord/qmk_firmware
+ 1834  clear
+ 1833  　clear
+ 1832  pwd
+ 1831  ls -al
+ 1830  clear
+ 1829  cleafr
+ 1828  ls -al
+ 1827  clear
+ 1826  cd ..
+ 1825  ls -al
+ 1824  vi keymap.c
+ 1823  clear
+ 1822  ls -al
+ 1821  cd jarred
+ 1820  cd ..
+ 1819  vi keymap.c
+ 1818  ls -al
+ 1817  cd iso_6u_space
+ 1816  ls -al
+ 1815  clear
+ 1814  cd ..
+ 1813  vi keymap.c
+ 1812  ls -al
+ 1811  cd LEdiodes
+ 1810  cd ..
+ 1809  vi keymap.c
+ 1808  ls -al
+ 1807  cd 60_ansi
+ 1806  ls -al
+ 1805  cd keymaps
+ 1804  vi config.h
+ 1803  vi dz60.c
+ 1802  ls -al
+ 1801  pwd
+ 1800  clear
+ 1799  ls -al
+ 1798  clear
+ 1797  ls -al
+ 1796  clear
+ 1795  ls -al
+ 1794  clear
+ 1793  ls -al
+ 1792  vi dz60.c
+ 1791  vi info.json
+ 1790  ls -al
+ 1789  clear
+ 1788  ls -al
+ 1787  cd ..
+ 1786  ls -al
+ 1785  clear
+ 1784  ls -al
+ 1783  cd ..
+ 1782  ls -al
+ 1781  clear
+ 1780  vi keymap.c
+ 1779  ls -al
+ 1778  clear
+ 1777  cd 256k_HHKB
+ 1776  ls -al
+ 1775  clear
+ 1774  celar
+ 1773  celarf
+ 1772  ls -al
+ 1771  cd ..
+ 1770  ls -al
+ 1769  cd default
+ 1768  ls -al
+ 1767  cd keymaps
+ 1766  ls -al
+ 1765  cd dz60
+ 1764  pwd
+ 1763  cd ..
+ 1762  vi config.h
+ 1761  vi dz60.c
+ 1760  ls -al
+ 1759  clear
+ 1758  ls -al
+ 1757  cd ..
+ 1756  ls -al
+ 1755  cd ..
+ 1754  vi keymap.c
+ 1753  ls -al
+ 1752  cd default
+ 1751  cd ..
+ 1750  clear
+ 1749  vi keymap.c
+ 1748  ls -al
+ 1747  cd macos_64
+ 1746  ls -al
+ 1745  cd ..
+ 1744  vim keymap.c
+ 1743  ls -al
+ 1742  clear
+ 1741  celar
+ 1740  cd default
+ 1739  ls -al
+ 1738  cd keymaps
+ 1737  cd dz60
+ 1736  cd keyboards
+ 1735  cd keybord/qmk_firmware
+ 1734  clear
+ 1733  avrdude -p m32u4 -c avrisp -P /dev/ttyACM0 -b 19200 -e -v
+ 1732  sudo dfu-programmer atmega34u4 eras
+ 1731  avrdude -p m32u4 -c avrisp -P /dev/ttyACM0 -b 19200 -B 4 -U flash:w:"BootloaderDFU.hex" -v
+ 1730  avrdude -p m32u4 -c avrisp -P /dev/ttyACM0 -b 19200 -U lfuse:w:0x5e:m -U hfuse:w:0x99:m -U efuse:w:0xf3:m -v
+ 1729  avrdude -p m32u4 -c avrisp -P /dev/ttyACM0 -b 19200 -e -v
+ 1728  sudo port install dfu-programmer
+ 1727  dfu-programmer.exe atmega32u4 reset
+ 1726  dfu-programmer atmega32u4 reset
+ 1725  dfu-programmer.exe atmega32u4 reset
+ 1724  dfu-programmer  atmega32u4 erase --force
+ 1723  clear
+ 1722  dfu-programmer.exe atmega32u4 erase --force
+ 1721  dfu-programmer --help
+ 1720  dfu-programmer
+ 1719  duf-programmer -h
+ 1718  cd ..
+ 1717  brew update
+ 1716  clear
+ 1715  make gh60:default:dfu
+ 1714  mdfind -onlyin ~/ -name "dfu"
+ 1713  mdfind -onlyin ~/ -name "dfu-programmer"
+ 1712  sudo dfu-programmer.exe atmega32u4 erase --force\n
+ 1711  dfu-programmer.exe atmega32u4 erase --force\n
+ 1710  cd qmk_firmware
+ 1709  cd q
+ 1708  cd keybord
+ 1707  clear
+ 1706  mysql -umcpvc -hmcpvc.cqz8go1oinkg.ap-northeast-1.rds.amazonaws.com -p39w3apa-2#RT
+ 1705  ls -al
+ 1704  clear
+ 1703  dir
+ 1702  ls -al
+ 1701  clear
+ 1700  mysql -ubjdemo -hbjdemo.cqz8go1oinkg.ap-northeast-1.rds.amazonaws.com -p'alsd3$#JDpef'\n
+ 1699  clear
+ 1698  mysql -ubjdemo -hbjdemo.cqz8go1oinkg.ap-northeast-1.rds.amazonaws.com -p'alsd3$#JDpef'\n
+ 1697  clear
+ 1696  mysql -ubjdemo -hbjdemo.cqz8go1oinkg.ap-northeast-1.rds.amazonaws.com -p'alsd3$#JDpef'\n
+ 1695  clear
+ 1694  mysql -ubjdemo -hbjdemo.cqz8go1oinkg.ap-northeast-1.rds.amazonaws.com -p'alsd3$#JDpef'\n
+ 1693  exit
+ 1692  close
+ 1691  quit
+ 1690  bye
+ 1689  clear
+ 1688  exit
+ 1687  quit
+ 1686  exit
+ 1685  exitg
+ 1684  clear
+ 1683  make gh60:default:avrdude
+ 1682  make gh60:default:dev
+ 1681  make gh60:default:DFU
+ 1680  make gh60:default
+ 1679  make satan:default:avedude
+ 1678  make satan:default:dfu
+ 1677  clear
+ 1676  make satan:default
+ 1675  clear
+ 1674  cd keybord/qmk_firmware
+ 1673  make satan:default
+ 1672  make satan:defalt
+ 1671  cd
+ 1670  ls -al
+ 1669  cd default
+ 1668  ls -al
+ 1667  cd keymaps
+ 1666  ls -al
+ 1665  cd satan
+ 1664  pwd
+ 1663  clear
+ 1662  cd stan
+ 1661  ls -al
+ 1660  cd keybord/qmk_firmware/keyboards
+ 1659  mysql -ubjdemo -hbjdemo.cqz8go1oinkg.ap-northeast-1.rds.amazonaws.com -p'alsd3$#JDpef'\n
+ 1658  ;mys
+ 1657  top
+ 1656  top | grep tun
+ 1655  ps auxh |grep tun
+ 1654  sudo kill -9 5970
+ 1653  sudo kill 9 5970
+ 1652  ps 5970
+ 1651  kill 9 5970
+ 1650  kill -9 5970
+ 1649  kill 5970
+ 1648  ps 5970
+ 1647  ps aux |grep tun
+ 1646  clear
+ 1645  mysql -ubjdemo -hbjdemo.cqz8go1oinkg.ap-northeast-1.rds.amazonaws.com -p'alsd3$#JDpef'\n
+ 1644  clear
+ 1643  ls -al
+ 1642  ls -al 
+ 1641  clear
+ 1640  ls -al
+ 1639  clear
+ 1638  mysql -ubjdemo -hbjdemo.cqz8go1oinkg.ap-northeast-1.rds.amazonaws.com -p'alsd3$#JDpef'\n
+ 1637  clear
+ 1636  mysql -ubjdemo -hbjdemo.cqz8go1oinkg.ap-northeast-1.rds.amazonaws.com -p'alsd3$#JDpef'\n
+ 1635  clear
+ 1634  mysql -ubjdemo -hbjdemo.cqz8go1oinkg.ap-northeast-1.rds.amazonaws.com -p'alsd3$#JDpef'
+ 1633  mysql -ubjdemo -hbjdemo.cqz8go1oinkg.ap-northeast-1.rds.amazonaws.com -palsd3$#JDpef
+ 1632  mysql -ubjdemo -hbjdemo.cqz8go1oinkg.ap-northeast-1.rds.amazonaws.com -p
+ 1631  mysql -ubjdemo -hbjdemo.cqz8go1oinkg.ap-northeast-1.rds.amazonaws.com -palsd3$#JDpef\n
+ 1630  mysql -umcpvc -hmcpvc.cqz8go1oinkg.ap-northeast-1.rds.amazonaws.com -p39w3apa-2#RT
+ 1629  mysql -ubjdemo -h bjdemo.cqz8go1oinkg.ap-northeast-1.rds.amazonaws.com -palsd3$#JDpef
+ 1628  ls -al |grep bj
+ 1627  chmod 777 bjdemo
+ 1626  ls -al |grep bj
+ 1625  cd ..
+ 1624  pwd
+ 1623  chmod 777 bjdemo
+ 1622  chomod 777 bjdemo
+ 1621  ls -al
+ 1620  cd webbj
+ 1619  ls -al |grep bj
+ 1618  ls -al
+ 1617  ls -al bjdemo
+ 1616  mkdir bjdemo
+ 1615  ls -al
+ 1614  cd bjdemo
+ 1613  ls -al
+ 1612  ls 
+ 1611  pwd
+ 1610  clear
+ 1609  ls -al
+ 1608  pwd
+ 1607  mysql -ubjdemo -hbjdemo.cqz8go1oinkg.ap-northeast-1.rds.amazonaws.com -p
+ 1606  mysql -ubjdemo -hbjdemo.cqz8go1oinkg.ap-northeast-1.rds.amazonaws.com -palsd3$#JDpef
+ 1605  mysql -umcpvc -hmcpvc.cqz8go1oinkg.ap-northeast-1.rds.amazonaws.com -paaaa
+ 1604  clear
+ 1603  clerar
+ 1602  mysql -umcpvc -hmcpvc.cqz8go1oinkg.ap-northeast-1.rds.amazonaws.com -p39w3apa-2#RT
+ 1601  clear
+ 1600  cd /tep/mysql
+ 1599  mysql
+ 1598  clear
+ 1597  cd
+ 1596  mysql
+ 1595  mysql -ubjdemo -hbjdemo.cqz8go1oinkg.ap-northeast-1.rds.amazonaws.com -palsd3$#JDpef
+ 1594  clear
+ 1593  ls -al
+ 1592  clear
+ 1591  vim keymap.c
+ 1590  clear
+ 1589  cd default
+ 1588  cd keymaps
+ 1587  vim satan.c
+ 1586  vim stan.c
+ 1585  ls -al
+ 1584  cd satan
+ 1583  ls -al
+ 1582  cd keyboards
+ 1581  gcc --version
+ 1580  gcc -v
+ 1579  gcc --verson
+ 1578  make gh60:default:dfu
+ 1577  make gh60:default:avrdude
+ 1576  make gh60:default:dfu
+ 1575  cd keybord/qmk_firmware
+ 1574  make gh60:default:dfu
+ 1573  clear
+ 1572  make gh60:default:dfu
+ 1571  ls -al
+ 1570  clear
+ 1569  ls -al
+ 1568  clear
+ 1567  make gh60:dbroqua:dfu
+ 1566  ls -al
+ 1565  make gh60:dbroqua:dfu
+ 1564  clear
+ 1563  celar
+ 1562  make gh60:dbroqua:dfu
+ 1561  cd keybord/qmk_firmware
+ 1560  make gh60:dbroqua:avrdude
+ 1559  kill 9018
+ 1558  make gh60:dbroqua:avrdude
+ 1557  make gh60:dbroqua:avdude
+ 1556  make gh60:dbroqua:def
+ 1555  ls -al
+ 1554  make gh60:dbroqua
+ 1553  cd keybord/qmk_firmware
+ 1552  cd 
+ 1551  clear
+ 1550  pwd
+ 1549  vim keymap.c
+ 1548  cd dbroqua
+ 1547  cd ..
+ 1546  pwd
+ 1545  vim keymap.c
+ 1544  cd chaser
+ 1543  cd ..
+ 1542  vim keymap.c
+ 1541  cd default
+ 1540  cd ..
+ 1539  pwd
+ 1538  vim keymap.c
+ 1537  cd emiilsd
+ 1536  ls -al
+ 1535  cd ..
+ 1534  clear
+ 1533  vim keymap.c
+ 1532  cd maartenwut
+ 1531  cd ..
+ 1530  vim keymap.c
+ 1529  ls -al
+ 1528  cd bluezio
+ 1527  pwd
+ 1526  cd ..
+ 1525  vim keymap.c
+ 1524  ls -al
+ 1523  cd chaser
+ 1522  ls -al
+ 1521  cd keymaps
+ 1520  ls -al
+ 1519  pwd
+ 1518  cd ..
+ 1517  ls -al
+ 1516  cd xyhverz
+ 1515  ls -al
+ 1514  cd ..
+ 1513  vim keymap.c
+ 1512  ls -al
+ 1511  cd emiilsd
+ 1510  ls -al
+ 1509  cd keymaps
+ 1508  ls -al
+ 1507  cd keymap
+ 1506  ls -al
+ 1505  cd gh60
+ 1504  ls -al
+ 1503  cd keybord/qmk_firmware/keyboards
+ 1502  pwd
+ 1501  ls -al
+ 1500  clear
+ 1499  kclear
+ 1498  vcj     -     
+ 1497  clear
+ 1496  clerar
+ 1495  kanagawaken 
+ 1494  ls -al
+ 1493  clear
+ 1492  htop
+ 1491  ls -al
+ 1490  clear
+ 1489  help cp
+ 1488  cp -help
+ 1487  cp --h
+ 1486  de default
+ 1485  ls -al
+ 1484  cd keymaps
+ 1483  pwd
+ 1482  ls
+ 1481  dir
+ 1480  ls -al
+ 1479  clear
+ 1478  ;';;'''''''''''''''''
+ 1477  make treadstone48:default:avrdude
+ 1476  make treadstone48:treadstone48:avrdude
+ 1475  cd keybord/qmk_firmware
+ 1474  ls -al
+ 1473  cd treadstone48
+ 1472  ls -al
+ 1471  cd keyboards
+ 1470  cd keybord/qmk_firmware
+ 1469  cd
+ 1468  ps 8962
+ 1467  kill -9 8962
+ 1466  ps 8962
+ 1465  kill -f 8962
+ 1464  ps 8962
+ 1463  killall 8962
+ 1462  ps 8962
+ 1461  kill 8962
+ 1460  ps 8962
+ 1459  kill 8962
+ 1458  ps 8962
+ 1457  ps 8912
+ 1456  ls -al 8912
+ 1455  ls -al
+ 1454  clear
+ 1453  vim keymap.c
+ 1452  cd castom
+ 1451  ls -al
+ 1450  cd keymaps
+ 1449  ls -al
+ 1448  cd attack25
+ 1447  pwd
+ 1446  cd keyboards
+ 1445  ls -al
+ 1444  pwd
+ 1443  ls -al
+ 1442  clear
+ 1441  make attack25:castom:avrdude
+ 1440  make attack25:castom
+ 1439  ls -al
+ 1438  cd qmk_firmware
+ 1437  cd keybord
+ 1436  cd 
+ 1435  cd ..
+ 1434  ls -al
+ 1433  clear
+ 1432  vim keymap.c
+ 1431  vim keymap.co
+ 1430  ls -al
+ 1429  cd castom
+ 1428  ls -al
+ 1427  cd keybord/qmk_firmware/keyboards/attack25/keymaps/
+ 1426  ls -al
+ 1425  clear
+ 1424  ls -al
+ 1423  dir
+ 1422  ls -al
+ 1421  clear
+ 1420  ls -al
+ 1419  clear
+ 1418  pwd
+ 1417  clear
+ 1416  pwd
+ 1415  ls -al
+ 1414  clear
+ 1413  vi .zshrc
+ 1412  pwd
+ 1411  ls -al
+ 1410  clear
+ 1409  ls -al
+ 1408  clear
+ 1407  ls
+ 1406  clear
+ 1405  ls -al
+ 1404  dir
+ 1403  clear
+ 1402  ls -al
+ 1401  dir
+ 1400  clear
+ 1399  ls -al
+ 1398  clear
+ 1397  ls -al
+ 1396  ls 0al
+ 1395  ls -al
+ 1394  clear
+ 1393  htop
+ 1392  ls -al
+ 1391  clear
+ 1390  lcear
+ 1389  dir
+ 1388  clear
+ 1387  ls -al
+ 1386  ls -la
+ 1385  exit
+ 1384  vim keymap.c
+ 1383  ls -al
+ 1382  cd castom
+ 1381  ls -al
+ 1380  cd keymaps
+ 1379  ls -al
+ 1378  cd attack25
+ 1377  ls 
+ 1376  cd keyboards
+ 1375  ls -al
+ 1374  cd keybord/qmk_firmware
+ 1373  exit
+ 1372  ls -al
+ 1371  clear
+ 1370  ls -al
+ 1369  clear
+ 1368  mysql -umcpvc -hmcpvc.cqz8go1oinkg.ap-northeast-1.rds.amazonaws.com -p39w3apa-2#RT
+ 1367  mysql -umcpvc -h mcpvc-publish.cqz8go1oinkg.ap-northeast-1.rds.amazonaws.com -p1dF#=RASad91
+ 1366  pwd
+ 1365  clear
+ 1364  mysql -umcpvc -hmcpvc.cqz8go1oinkg.ap-northeast-1.rds.amazonaws.com -p39w3apa-2#RT
+ 1363  ls -al
+ 1362  clear
+ 1361  kill 8828
+ 1360  httpstat http://10.1.1.36:18091/mcpvc/loginForm
+ 1359  httpstat
+ 1358  brew install httpstat
+ 1357  ls -al
+ 1356  clear
+ 1355  brew search gtop
+ 1354  brew cask install gtop
+ 1353  ls -al
+ 1352  clear
+ 1351  brew doctor
+ 1350  gtop
+ 1349  clear
+ 1348  sudo brew install gtop
+ 1347  brew install gtop
+ 1346  htop
+ 1345  brew install htop
+ 1344  cd 
+ 1343  vi keymap.c
+ 1342  vim 
+ 1341  vi ~/.vimrc
+ 1340  clear
+ 1339  vi keymap.c
+ 1338  pwd
+ 1337  clear
+ 1336  vi
+ 1335  vi ~/.vimrc
+ 1334  clear
+ 1333  vi ~/.vimrc
+ 1332  vi ~/.viminfo
+ 1331  which-command vi
+ 1330  vi keymap.c
+ 1329  vim keymap.c
+ 1328  cd castom
+ 1327  ls -al
+ 1326  cd keybord/qmk_firmware/keyboards/attack25/keymaps/
+ 1325  pwd
+ 1324  ls -al |more
+ 1323  ls -la
+ 1322  clear
+ 1321  mysql
+ 1320  musql
+ 1319  4444
+ 1318  444444ls -al
+ 1317  vim keymap.c
+ 1316  ls -al
+ 1315  cd castom
+ 1314  ls -al
+ 1313  cp -r default castom
+ 1312  ls -al
+ 1311  cd keymaps
+ 1310  ls -al
+ 1309  cd keybord/qmk_firmware/keyboards/attack25
+ 1308  exit
+ 1307  clear
+ 1306  quit
+ 1305  pwd
+ 1304  clear
+ 1303  ls
+ 1302  ls -al
+ 1301  clear
+ 1300  ls -al
+ 1299  vi translate_log.yml
+ 1298  pwd
+ 1297  ls -al
+ 1296  cd ..
+ 1295  vim translate_log.yml
+ 1294  cd ..
+ 1293  ls -al
+ 1292  cd repository
+ 1291  ls -al
+ 1290  cd .m2
+ 1289  ls -al
+ 1288  pwd
+ 1287  ls -al
+ 1286  clear
+ 1285  pwd
+ 1284  cd
+ 1283  pwd
+ 1282  clear
+ 1281  ls -al
+ 1280  cd keyboards
+ 1279  cd key
+ 1278  ls -al
+ 1277  clear
+ 1276  cd qmk_firmware
+ 1275  ls -al
+ 1274  git clone https://github.com/monksoffunk/qmk_firmware.git
+ 1273  git clone 748680201da21a129c17fd74c09486d572736818
+ 1272  git clone https://github.com/monksoffunk/qmk_firmware/tree/attack25/
+ 1271  ls -al
+ 1270  cd atta25.pyh
+ 1269  ls -al
+ 1268  cd attackxx
+ 1267  cd ..
+ 1266  ls -al
+ 1265  cd 1upkeyboards
+ 1264  ls -al
+ 1263  git clone https://github.com/ktair/attackXX.git
+ 1262  ls -al
+ 1261  cd keybord/qmk_firmware/keyboards
+ 1260  git clone /monksoffunk/qmk_firmware/tree/attack25/keyboards/attack25
+ 1259  git clone //github.com/monksoffunk/qmk_firmware/tree/attack25/keyboards/attack25
+ 1258  github clone https://github.com/monksoffunk/qmk_firmware/tree/attack25/keyboards/attack25
+ 1257  git clone https://github.com/monksoffunk/qmk_firmware/tree/attack25/keyboards/attack25
+ 1256  clear
+ 1255  pwd
+ 1254  cd 
+ 1253  cd ..
+ 1252  svn --help
+ 1251  clear
+ 1250  ls -al
+ 1249  clear
+ 1248  make dz60:Custom_HHKB:dfu
+ 1247  make dz60:Custom_HHKB
+ 1246  cd keybord/qmk_firmware
+ 1245  make dz60:Custom_HHKB
+ 1244  make dz60:Custom_HHKB:dfu
+ 1243  cd keybord/qmk_firmware
+ 1242  make dz60:Custom_HHKB:avrdude
+ 1241  make dz60:Custom_HHKB
+ 1240  cd qmk_firmware
+ 1239  cd keybord
+ 1238  make dz60:Custom_HHKB:avrdude
+ 1237  make hifumi:custom:avrdude
+ 1236  make hifumi:custom
+ 1235  pwd
+ 1234  cd ..
+ 1233  pwd
+ 1232  cd ..
+ 1231  pwd
+ 1230  make hifumi:custome
+ 1229  history
+ 1228  open -a Finder ./
+ 1227  ls -al
+ 1226  cd custom
+ 1225  ls -al
+ 1224  cp -r default custom
+ 1223  ls -al
+ 1222  cd keymaps
+ 1221  cd hifumi
+ 1220  cd keyboards
+ 1219  cd qmk_firmware
+ 1218  cd keybord
+ 1217  cd kreis
+ 1216  ls -al
+ 1215  clear
+ 1214  ls -al
+ 1213  clear
+ 1212  ls -al
+ 1211  clear
+ 1210  cd ..
+ 1209  ls -al
+ 1208  clear
+ 1207  make dz60:Custom_HHKB:dfu
+ 1206  make dz60:Custom_HHKB:avrdude
+ 1205  ls -al
+ 1204  make dz60:Custom_HHKB
+ 1203  pwd
+ 1202  cd ..
+ 1201  make dz60:Custom_HHKB
+ 1200  open -a Finder ./
+ 1199  clear
+ 1198  ls -al
+ 1197  vim keymap.c
+ 1196  ls -al
+ 1195  cd Custom_HHKB
+ 1194  ls -al
+ 1193  ls -al |grep "Custom_HHKB"
+ 1192  ls -al
+ 1191  cp -r  256k_HHKB Custom_HHKB
+ 1190  mdfind -onlyin ~/ -name "Custom_HHKB"
+ 1189  ls -al
+ 1188  cd ..
+ 1187  ls -al
+ 1186  cd 256k_HHKB
+ 1185  ls -al
+ 1184  cd ..
+ 1183  ls -al
+ 1182  cp -r 256k_HHKB Custom_HHKB
+ 1181  pwd
+ 1180  ls -al
+ 1179  clear
+ 1178  近藤です。\n現在、来週のプレゼンに向けてデモ用にBJの回収を行っております。\nつきましては以下の構築をお願い致します。\n\n\n１、　DockerにてTomcatアプリ追加のお願い。\n\t→ 現在、MCPVCの開発機をDockerにて構築して頂き運用していますが、\n\t　　同じ構成でもう２台のインストールお願い致します。\n\n\t１−１　WebBjデモ用サーバー　\n\t\tSVNリポジトリー　：http://10.1.1.36/svn/wbjdev/trunk/20_プロジェクト/70_デモプロジェクト/EclipseProject/BjDemo\n\n\t１−２　WebBjポータルサイト\n\t\tSVNリポジトリー　：\n\t\t※DBに関しては bjdemoのスキーマーを作成し対応しようと思います。\n\n\t\n\t両方ともFWはhttp://10.1.1.36/svn/wbjdev/trunk/20_プロジェクト/20_アプリケーション基盤/EclipseProject/BJFW\n\tを利用。\n\n\tデプロイに関しては現在MCPVCと同じTOMCAT管理コンソールから実施。つきましては、　Basic認証の設定もお願い致します。\n\n\n\t天谷殿構築後尚、両方ともインターネット経由のSSLで設定できますか？\n\n\t上記デモの日程を加味し月曜日までに構築できるか検討願い度。\n\n以上よろしくお願い致します。\t\n
+ 1177  ls -al
+ 1176  pwd
+ 1175  ls -al
+ 1174  clear
+ 1173  vim keymap.c\n
+ 1172  vim keymap.c
+ 1171  cd keybamp.c
+ 1170  ls -al
+ 1169  cd 256k_HHKB
+ 1168  ls -al
+ 1167  cd keymaps
+ 1166  ls -al
+ 1165  cd /Users/kreis/keybord/qmk_firmware/keyboards/dz60/
+ 1164  ls -al
+ 1163  cd qmk_firmware
+ 1162  cd keybord
+ 1161  cd ..
+ 1160  ls -al
+ 1159  cd work
+ 1158  pwd
+ 1157  ls -al
+ 1156  cd
+ 1155  pwd
+ 1154  ls -al
+ 1153  pwd
+ 1152  ls -al
+ 1151  cd ..
+ 1150  pwd
+ 1149  exit
+ 1148  quit
+ 1147  clear
+ 1146  exit
+ 1145  quit
+ 1144  bye
+ 1143  quit
+ 1142  exit
+ 1141  brew cask install slack
+ 1140  brew install slack
+ 1139  brew cask slack
+ 1138  brew doctor
+ 1137  brew update
+ 1136  brew slack
+ 1135  ls -al
+ 1134  cd qmk_firmware/
+ 1133  cd keybord
+ 1132  ls -al
+ 1131  clear
+ 1130  clerar
+ 1129  printenv
+ 1128  clear
+ 1127  celar
+ 1126  ls -al
+ 1125  python --version
+ 1124  python
+ 1123  pyhson --version
+ 1122  exit
+ 1121  ps p=361
+ 1120  sudo kill 361
+ 1119  clear
+ 1118  sudo kill 136
+ 1117  kill 316
+ 1116  ps p="316"
+ 1115  ps p=316
+ 1114  ps id=316
+ 1113  ps pid=316
+ 1112  ps 316
+ 1111  clear
+ 1110  kill 3176
+ 1109  kill 840
+ 1108  kill 4335744
+ 1107  ps aux |grep "tunnelblick"
+ 1106  ps aux |grep "tunn"
+ 1105  exit
+ 1104  mvn --version
+ 1103  clear
+ 1102  clerarf
+ 1101  mvn --version
+ 1100  clear
+ 1099  byhe
+ 1098  quit
+ 1097  exit
+ 1096  pwd
+ 1095  cd
+ 1094  clear
+ 1093  ps aux | grep "tun"
+ 1092  clear
+ 1091  vim
+ 1090  clear
+ 1089  clerar
+ 1088  ps aux |grep ping
+ 1087  kill 29117
+ 1086  ps aux |grep ping
+ 1085  kill 29177
+ 1084  kill 29206\\n;
+ 1083  ps aux
+ 1082  clear
+ 1081  ping 172.29.110.225
+ 1080  ls -al
+ 1079  clear
+ 1078  ping 10.211.55.4
+ 1077  clear
+ 1076  brew cask install microsoft-remote-desktop-beta
+ 1075  brew cask install microsoft-remote-desktop
+ 1074  brew cask microsoft-remote-desktop
+ 1073  brew search remote desktop
+ 1072  brew doctor
+ 1071  brow doctor
+ 1070  brew install remotedesktop
+ 1069  clear
+ 1068  clerar
+ 1067  curl --help
+ 1066  curl --h
+ 1065  clear
+ 1064  curl http://10.1.1.36:18091/mcpvc/loginForm
+ 1063  curl ;http://10.1.1.36:18091/mcpvc/loginForm
+ 1062  clear
+ 1061  ls -al
+ 1060  clear
+ 1059  ls -al
+ 1058  clear
+ 1057  ls -al
+ 1056  pwd
+ 1055  w
+ 1054  ls -al
+ 1053  clear
+ 1052  vi keymap.c
+ 1051  ls -al
+ 1050  ls -a.
+ 1049  cd default
+ 1048  ls -al
+ 1047  ls -a.
+ 1046  cd keymaps
+ 1045  ls -al
+ 1044  cd hifumi
+ 1043  cd keyboards
+ 1042  pwd
+ 1041  clear
+ 1040  clera
+ 1039  cler
+ 1038  ls -al
+ 1037  dir
+ 1036  clear
+ 1035  ls -al
+ 1034  clear
+ 1033  sudo lsof -i -P | grep "LISTEN"
+ 1032  istatus
+ 1031  sudo gem install iStatus -n /usr/loal/bin
+ 1030  clear
+ 1029  ps aux |grep gen
+ 1028  ps aux
+ 1027  stop
+ 1026  stoped
+ 1025  ls -al
+ 1024  clear
+ 1023  gem -v
+ 1022  gem -version
+ 1021  sudo gem update
+ 1020  gem update
+ 1019  istatus
+ 1018  sudo gem install iStatus -n /usr/loal/bin
+ 1017  sudo 
+ 1016  brew iStatus
+ 1015  iStatus
+ 1014  istatus
+ 1013  top -d
+ 1012  top -d 2
+ 1011  vm -vsize
+ 1010  VM -vsize
+ 1009  top -d3
+ 1008  clear
+ 1007  top -d
+ 1006  top -d5
+ 1005  top 0d5
+ 1004  top -d 5
+ 1003  clear
+ 1002  ls -al
+ 1001  clear
+ 1000  ls -al
+  999  clear
+  998  curl http://10.1.1.36:18091/mcpvc/loginForm -v
+  997  curl http://10.1.1.36:18091/mcpvc/loginForm -i
+  996  curl http://10.1.1.36:18091/mcpvc/loginForm
+  995  svn
+  994  clear
+  993  dir
+  992  clear
+  991  ls -al
+  990  clear
+  989  ls -al
+  988  clear
+  987  ls -al
+  986  clear
+  985  mvn -version
+  984  mvn
+  983  brew install maven
+  982  brew cask search mavan
+  981  brew casc search mavan
+  980  brew search mavan
+  979  homebrew list
+  978  homebrew search mavan
+  977  ls -al
+  976  clear
+  975  cat dz60_256k_HHKB.hex
+  974  ls -al
+  973  cd /Users/kreis/keybord/qmk_firmware/\n
+  972  cd /Users/kreis/keybord/qmk_firmware/dz60_256k_HHKB.hex\n
+  971  ls -al
+  970  cd /Users/kreis/keybord/qmk_firmware/
+  969  cd /Users/kreis/keybord/qmk_firmware/dz60
+  968  mdfind -onlyin ~/ -name "hhkb.hex"
+  967  mdfind -onlyin ~/ -name "hhkb"
+  966  madinf hhkb.hex
+  965  mdfind 
+  964  make dz60:256k_HHKB
+  963  cd qmk_firmware
+  962  cd q
+  961  cd keybord
+  960  cd 
+  959  ls -al
+  958  cd 256k_HHKB
+  957  ls -al
+  956  cd keymaps
+  955  ls -al
+  954  cd dz60
+  953  ls -al
+  952  cls -al
+  951  pwd
+  950  make dz60:256k_HHKB
+  949  ls -al
+  948  cd keyboards
+  947  ls -al
+  946  cd keybord
+  945  ls -al
+  944  ls 0al
+  943  cd dz60
+  942  cd qmk_firmware
+  941  cd keybord
+  940  pwd
+  939  make dz60:256k_HHKB:avrdude
+  938  cd ..
+  937  clear
+  936  ls -al
+  935  cd keymaps
+  934  ls -al
+  933  cd dz60
+  932  cd keyboards
+  931  cd dz60
+  930  cd ..
+  929  ls -al
+  928  clear
+  927  vi info.json
+  926  ls -al
+  925  cd ..
+  924  ls -al
+  923  cd 256k_HHKB
+  922  ls -al
+  921  cd ..
+  920  vi keymap.c
+  919  ls -al
+  918  cd 256k_HHKB
+  917  ls -al
+  916  cd keymaps
+  915  ls -al
+  914  cd dz60
+  913  ls -al
+  912  cd keyboards
+  911  cd qmk_firmware
+  910  cd keybord
+  909  clear
+  908  ls -al
+  907  clear
+  906  \clear
+  905  clear
+  904  iaakakagawaigakangwakken 
+  903  dekkfrkeofdkeurotgwos gfkanan kgaekns e
+  902  ls-al 
+  901  pad
+  900  ls -al
+  899  ls 
+  898  clear
+  897  ls -al
+  896  clear
+  895  ls -al
+  894  clear
+  893  clearf
+  892  clerar
+  891  ls -al
+  890  ls
+  889  pwd
+  888  clear
+  887  ls -al
+  886  clear
+  885  ls -al
+  884  make hifumi:default:avrdude
+  883  ./util/qmk_install.sh
+  882  clear
+  881  pwd
+  880  cd ..
+  879  qmk_install.sh
+  878  ls -al
+  877  pwd
+  876  ls -al
+  875  ls 0al
+  874  brew update
+  873  ls -al _install.sh
+  872  ls -al
+  871  cd util
+  870  ls -al
+  869  make hifumi:test:avrdude
+  868  make hifumi:test: avrdude
+  867  make hifumi:test avrdude
+  866  cd qmk_firmware
+  865  cd keybord
+  864  pwd
+  863  clear
+  862  exit
+  861  ls -al
+  860  clear
+  859  ls -al
+  858  chear
+  857  clear
+  856  kill 1195
+  855  top
+  854  mdfind -onlyin ~/ -name ".hex"
+  853  mdfind -onlyin ~/ -name ""
+  852  history
+  851  git clone https://github.com/monksoffunk/qmk_firmware/tree/attack25/keyboards
+  850  git clone https://github.com/monksoffunk/qmk_firmware/tree/attack25/keyboards/attack25
+  849  clone https://github.com/monksoffunk/qmk_firmware/tree/attack25/keyboards/attack25
+  848  git clone https://github.com/qmk/qmk_firmware/keyboards/attack25
+  847  git clone https://github.com/qmk/qmk_firmware/keyboards/attack25/
+  846  pwd
+  845  cd ..
+  844  pwd
+  843  cd ..
+  842  clear
+  841  open satan.h
+  840  Visual Studio Code.app satan.h
+  839  vscode satan.h
+  838  cat satan.h
+  837  cat satan.
+  836  cat stan.h
+  835  ls -al
+  834  cd ..
+  833  pwd
+  832  cd ..
+  831  clear
+  830  cat keymap.c
+  829  ls -al
+  828  cd hhkb_7u
+  827  ls -al
+  826  cd keymaps
+  825  ls -al
+  824  cd satan
+  823  ls -al
+  822  cd stan
+  821  ls -al
+  820  cd ..
+  819  cat hifumi.h
+  818  ls -al
+  817  cd ..
+  816  pwd
+  815  ls -al
+  814  cd ..
+  813  ls -al
+  812  pwd
+  811  clear
+  810  ls -al
+  809  pwd
+  808  clear
+  807  open -a Finder ./
+  806  ls -al
+  805  cd default
+  804  ls -al
+  803  cd keymaps
+  802  ls -al
+  801  cd hifumi
+  800  cd hifuni
+  799  ls -al |grep hifu
+  798  cd keyboards
+  797  cd /Users/kreis/keybord/qmk_firmware
+  796  pwd
+  795  cd ..
+  794  open -a Finder ./
+  793  ls
+  792  ls al
+  791  cd default
+  790  ls
+  789  cd keymaps
+  788  ls -al
+  787  cd gh60
+  786  cd keyboards
+  785  pwd
+  784  cd qmk_firmware
+  783  ls
+  782  cd keybord
+  781  pwd
+  780  clear
+  779  history | grep "make"
+  778  history
+  777  clear
+  776  mdfind -onlyin ~/ -name "sk8"
+  775  mdfind -onlyin ~/ "sk8"
+  774  mdfind -onlyin ~/ "mcpvcs"
+  773  pwd
+  772  cd ..
+  771  ls -al
+  770  cd webbj
+  769  cd we
+  768  ls -al
+  767  cd mysql
+  766  cd 
+  765  clear
+  764  cler
+  763  brew cask list
+  762  brew casc list
+  761  brew list
+  760  brew doctor
+  759  brew doctoro
+  758  brew docter
+  757  brew doctoer
+  756  clear
+  755  brew update
+  754  brew doctor
+  753  clear
+  752  make hifumi:default:avrdude
+  751  cd ..
+  750  pwd
+  749  make hifumi:default:avrdude
+  748  ls -al
+  747  dir
+  746  clear
+  745  ls -al
+  744  clear
+  743  ls -al
+  742  make hifumi:default:avrdude
+  741  ls -al
+  740  clear
+  739  ls -al |grep att
+  738  ls -al |grep atta
+  737  ls -al |grep at
+  736  ls -al
+  735  cd keyboards
+  734  ls -al
+  733  dir
+  732  pwd
+  731  ls -al
+  730  clear
+  729  11111122223333aaabbbccccccc33332222111cccccbbb
+  728  make hifumi:test:avrdude
+  727  33333333333333333333cccccccccccccccccccc
+  726  make hifumi:test:avrdude
+  725  make hifumi:test
+  724  cd qmk_firmware
+  723  cd keybord
+  722  pwd
+  721  make hifumi:test
+  720  make hifumi:test:avrdude
+  719  make hifumi:test
+  718  ls -al
+  717  clear
+  716  make hifumi:test:avrdude
+  715  killall /Applications/Xcode.app/Contents/Developer/usr/bin/make hifumi:test:avrdude
+  714  kill -p 6086
+  713  ps -a
+  712  make hifumi:test:avrdude
+  711  pwd
+  710  killall make
+  709  kill 09 6086
+  708  make hifumi:test:avrdude
+  707  history
+  706  cd qmk_firmware
+  705  cd keybord
+  704  cd pwd
+  703  cd
+  702  ls -al
+  701  pwd
+  700  exit
+  699  clear
+  698  ls -al
+  697  clear
+  696  ls -al
+  695  clear
+  694  exit
+  693  ls -al
+  692  clear
+  691  dir
+  690  ls -al
+  689  dir
+  688  ls -al
+  687  clear
+  686  ls -al
+  685  clear
+  684  ls -al
+  683  dir
+  682  ls -al
+  681  clear
+  680  ls -al
+  679  clear
+  678  ls -al
+  677  exit
+  676  ls -al
+  675  clear
+  674  ls -al
+  673  clear
+  672  dir
+  671  clear
+  670  ls -al
+  669  clear
+  668  cldear
+  667  ps -Ax |grep tun
+  666  kill -l 503
+  665  kill -p 503
+  664  kill -p 618
+  663  ps 618
+  662  ps -Ax | grep tun
+  661  ps -Ax 
+  660  killAll TunnelBlick
+  659  ps -p
+  658  ps -p 501
+  657  sudo kill -p 501
+  656  ps -Al | grep Tunnelblick
+  655  sudo kill -p 618
+  654  kill -p 618
+  653  kill 618
+  652  ps -A |grep tun
+  651  ps -au |grep tun
+  650  ps -aux |grep tun
+  649  clear
+  648  ps -Ar
+  647  pa -Ar
+  646  ps -r
+  645  clear
+  644  ps -A
+  643  clear
+  642  ls -al
+  641  ps 
+  640  pid
+  639  ls -al
+  638  clear
+  637  ls -al
+  636  clear
+  635  ls -al
+  634  clear
+  633  ls -al
+  632  clear
+  631  ls -l
+  630  cd
+  629  pwd
+  628  ls -al
+  627  ls 0al
+  626  pwd
+  625  cd ..
+  624  ls -al
+  623  clear
+  622  ckear
+  621  ls -al
+  620  cd /Volumes
+  619  sudo
+  618  cd webbj
+  617  sudo chmod 777 webbj
+  616  ls -al
+  615  ls -al webbj
+  614  cd
+  613  ls -al
+  612  cd /
+  611  cd..
+  610  pwd
+  609  ls -al
+  608  ls 0al
+  607  pwd
+  606  sudo cd webbj
+  605  ls -al
+  604  cd webbj
+  603  pwd
+  602  sudo mount_smbfs //kondou@10.1.1.36/wbjdev  webbj
+  601  cd
+  600  pwd
+  599  sudo mount_smbfs //kondou@10.1.1.36/wbjdev  webbj
+  598  ls -al
+  597  ls 0al
+  596  cd /Volumes
+  595  cd ..
+  594  cd webbj
+  593  pwd
+  592  sudo mount_smbfs //kondou@10.1.1.36/mcpvc  webbj
+  591  pwd
+  590  cd ..
+  589  ls -al
+  588  ls 0al
+  587  cd webbj
+  586  pwd
+  585  pwed
+  584  sudo mount_smbfs //kondou@10.1.1.36/mcpvc  webbj
+  583  mount_smbfs //kondou@10.1.1.36/mcpvc  webbj
+  582  umount webbj
+  581  mount_smbfs //kondou@10.1.1.36/mcpvc  webbj
+  580  cd ..
+  579  mount_smbfs //kondou@10.1.1.36/mcpvc  webbj
+  578  unmount webbj
+  577  cd mcpvc
+  576  ls -al
+  575  cd webbj
+  574  ls -al
+  573  mount_smbfs //kondou@10.1.1.36 webbj
+  572  mkdir webbj
+  571  pwd
+  570  mount_smbfs //kondou@10.1.1.36 aws
+  569  mount_smbfs //kondou@10.1.1.36
+  568  mount kondou@smb://10.1.1.36
+  567  mount kondou@10.1.1.36
+  566  mount kondou@10.1.1.30
+  565  mount -h
+  564  mnt kondou@10.1.1.30
+  563  exit
+  562  clear
+  561  quit
+  560  exit
+  559  ls -al
+  558  chmod 777 mcpvc.war
+  557  ls -al
+  556  cp /Applications/Eclipse_4.8.0.app/Contents/workspace/mcpvc/target/mcpvc.war mcpvc.war
+  555  ls -al
+  554  ls 0al
+  553  rm mcpvc.war
+  552  del mcpvc.war
+  551  delete mcpvc.war
+  550  remove mcpvc.war
+  549  ls -al
+  548  ls 0al
+  547  cd mcpvc_deploy
+  546  cd work
+  545  pwd
+  544  cd ..
+  543  make hifumi:test:avrdude
+  542  cd keybord/qmk_firmware
+  541  cd ..
+  540  ls -al
+  539  ls 0al
+  538  chmod 777 mcpvc.war
+  537  ls -al
+  536  cp /Applications/Eclipse_4.8.0.app/Contents/workspace/mcpvc/target/mcpvc.war mcpvc.war
+  535  cp /Applications/Eclipse_4.8.0.app/Contents/workspace/mcpvc/target/mcpvc.war 
+  534  cd mcpvc_deploy
+  533  mkdir mcpvc_deploy
+  532  cd work
+  531  pwd
+  530  cd
+  529  pwd
+  528  ls -al
+  527  clear; cd '/Applications/Eclipse_4.8.0.app/Contents/workspace/mcpvc/target/'
+  526  clear
+  525  ps -l
+  524  ps -au
+  523  ps 
+  522  clear
+  521  deps
+  520  ps -aux
+  519  clear
+  518  ls -al
+  517  clear
+  516  cat keymap.c
+  515  clear
+  514  cat keymap.c
+  513  ls -al
+  512  cd default
+  511  cd keymaps
+  510  ls -al
+  509  ls 0al
+  508  cd ..
+  507  cat keymap.c
+  506  ls -al
+  505  cd test
+  504  ls -al
+  503  cd keymaps
+  502  ls -al
+  501  cd hifumi
+  500  ls -al
+  499  cd keyboards
+  498  ls -al
+  497  pwd
+  496  33333333333333333333333333333333333333333
+  495  make hifumi:test:avrdude
+  494  make hifumi:test
+  493  cd qmk_firmware
+  492  brew install avrdude
+  491  brew install gcc-arm-none-eabi
+  490  brew gcc-arm-none-eabi
+  489  brew install dfu-util
+  488  brew install dfu-programmer
+  487  brew link --force avr-gcc@7
+  486  brew install avr-gcc@7
+  485  brew update
+  484  brew tap PX4/homebrow-pxr4
+  483  brew tap osx-cross/avr
+  482  cd ..
+  481  clear
+  480  ls -al
+  479  ls 0al
+  478  cd qmk_firmware
+  477  ls 
+  476  dir
+  475  clear
+  474  clar
+  473  git clone https://github.com/qmk/qmk_firmware.git
+  472  cd keybord
+  471  mkdir keybord
+  470  ls -al
+  469  pwd
+  468  clear
+  467  ls -al
+  466  clear
+  465  dir
+  464  ls 0al
+  463  exit
+  462  ls -al
+  461  clear   
+  460  pwd
+  459  cd
+  458  pwd
+  457  cd ..
+  456  ls -al
+  455  ls 0al
+  454  cd ..
+  453  ls -al
+  452  clear
+  451  ls -al
+  450  clear
+  449  ls -al
+  448  cd MC_PVC
+  447  ls -al
+  446  cd Volumes
+  445  pwd
+  444  clear
+  443  cleafr
+  442  cd ..
+  441  pwd
+  440  [wd
+  439  clear
+  438  cd ..
+  437  ls -al
+  436  clear
+  435  ls -al
+  434  lsls -al
+  433  clear
+  432  dir
+  431  ls -al
+  430  clear
+  429  ls -al
+  428  clear
+  427  ps -al
+  426  kill 16131
+  425  kill 501
+  424  kill 764
+  423  kikk 764
+  422  ps -al
+  421  clear
+  420  ps -al
+  419  ps -u
+  418  ps -l
+  417  ps -au
+  416  ps -aux
+  415  ps -aul
+  414  ifconfig 
+  413  clear
+  412  ping 10.1.1.36
+  411  ipconfig
+  410  open -a 'Path Finder' ./
+  409  reconnecting
+  408  ifconfig
+  407  route 10.1.136
+  406  clear
+  405  cleafr
+  404  traceroute 10.1.1.36
+  403  route 10.1.1.36
+  402  clear
+  401  cat 開発.ovpn
+  400  cat kaihatu.ovpn
+  399  ls -al
+  398  cd vpn
+  397  ls -al
+  396  pwd
+  395  cd 
+  394  ls -al
+  393  cd /Applications
+  392  pwd
+  391  openvpn
+  390  ls -al
+  389  clear
+  388  grep reconnecting
+  387  ls -al
+  386  cd ..
+  385  reconnecting
+  384  route-up
+  383  cd ..
+  382  ls -al
+  381  cd Sparkle.framework
+  380  cd spa
+  379  ls -al
+  378  cd Frameworks
+  377  ls -al
+  376  ls -a;
+  375  cd Contents
+  374  ls -al
+  373  ls 0al
+  372  clear
+  371  ls -al
+  370  cd ..
+  369  ls -al
+  368  cd _CodeSignature
+  367  ls -al
+  366  cd ..
+  365  ls -al
+  364  ls 0al
+  363  cd MacOS
+  362  ls -al
+  361  cd Contents
+  360  ls -al
+  359  cd /Applications/Tunnelblick.app
+  358  route-up
+  357  ls -al
+  356  clear
+  355  mysql -umcpvc -hmcpvc.cqz8go1oinkg.ap-northeast-1.rds.amazonaws.com -p39w3apa-2#RT
+  354  ls -al
+  353  clear
+  352  clearf
+  351  ls -al
+  350  clear
+  349  ls -al
+  348  clear
+  347  open -a Finder ./
+  346  ls -al
+  345  ls 
+  344  cd work
+  343  cd ..
+  342  3
+  341  cd @e
+  340  ls
+  339  dir
+  338  cd Desktop
+  337  mysql
+  336  cd mysql
+  335  ls -al
+  334  pwd
+  333  cd ..
+  332  la -al
+  331  clear
+  330  ls -al
+  329  ls 0al
+  328  clear
+  327  ls -al
+  326  ls 0al
+  325  exit
+  324  clear
+  323  ls -al
+  322  clear
+  321  ls -al
+  320  clear
+  319  ls -al
+  318  ls 0al
+  317  ls -al
+  316  mysql --version
+  315  ls 0al 
+  314  clear
+  313  brew install Mysql
+  312  pwd
+  311  cd
+  310  ls -al
+  309  clear
+  308  brew cask install Mysql
+  307  brew update
+  306  ls 0al
+  305  cd MacOS
+  304  pwd
+  303  ls -al
+  302  clear; cd '/Applications/Eclipse_4.8.0.app/Contents/'
+  301  ls -al
+  300  cd .eclipse
+  299  ls -al
+  298  cd ..
+  297  ls -al
+  296  cd Library
+  295  cd ..
+  294  ls -al
+  293  cd Applications
+  292  ls -al
+  291  pwd
+  290  cd
+  289  clear
+  288  pwd
+  287  clear; cd '/Users/kreis/Library/Application Support/Dash/License/'
+  286  clear
+  285  clar
+  284  ls -al
+  283  ls 0al
+  282  clear
+  281  ps -u
+  280  ps -lu
+  279  ps -au
+  278  ps -aux
+  277  ps -al
+  276  clear
+  275  ps -al
+  274  ps -l
+  273  pwd
+  272  less .zshrc
+  271  ls -al private
+  270  chmod 777 private
+  269  ls -al private
+  268  mkdir private
+  267  pwd
+  266  cd ..
+  265  ls -al
+  264  cd html
+  263  ls -al
+  262  cd 
+  261  ls 0al
+  260  chmod 777 private
+  259  chmod 777 privagte
+  258  ls -al private
+  257  mkdir private
+  256  open -a Finder ./
+  255  ls -al
+  254  cd html
+  253  pwd
+  252  ls -al
+  251  ls 0al
+  250  clear
+  249  ls -al
+  248  brew cask install TeamSQL
+  247  brew install TeamSQL
+  246  brew view TeamSQL
+  245  brew TeamSQL
+  244  ls -al
+  243  cd Volumes
+  242  ls -al
+  241  cd /
+  240  cd ..
+  239  ls 0al
+  238  cd ../Home/lib/Lbjli.dhlib
+  237  ls -al
+  236  cd MacOS
+  235  ls -al
+  234  cd Contents
+  233  ls -al
+  232  cd openjdk-12.0.1.jdk
+  231  ls -al
+  230  cd /Library/Java/JavaVirtualMachines
+  229  ls -al Library
+  228  cd
+  227  cd..
+  226  ls -al
+  225  cd .oracle_jre_usage
+  224  find -f java
+  223  find java
+  222  ls -al
+  221  cd
+  220  ls -al | more
+  219  ls -al
+  218  cd /usr/sbin
+  217  ls -al
+  216  clear
+  215  javac
+  214  java -version
+  213  brew cask install java
+  212  brew cask list
+  211  brew casc list
+  210  brow casc list
+  209  java
+  208  pwd
+  207  cd 
+  206  ls
+  205  cd Contents
+  204  ls
+  203  cd MySQLWorkbench.app
+  202  ls -al
+  201  clear; cd '/Applications/'
+  200  clear
+  199  clar
+  198  brew install mysql --client-only
+  197  brew update
+  196  brew list
+  195  brew doctor
+  194  mysql
+  193  clear
+  192  clar
+  191  brew install mysql --client -only
+  190  brew install mysql --client-only
+  189  brew cast install mysql --client-only
+  188  mysql
+  187  mysql -umcpvc -hmcpvc.cqz8go1oinkg.ap-northeast-1.rds.amazonaws.com -p39w3apa-2#RT
+  186  [200~mysql -umcpvc -hmcpvc.cqz8go1oinkg.ap-northeast-1.rds.amazonaws.com -p39w3apa-2#RT~
+  185  clear
+  184  pwd
+  183  clear; cd '/Users/kreis/fonts/'
+  182  pwd
+  181  clear; cd '/Users/kreis/'
+  180  open -a Finder ./
+  179  pwd
+  178  cd '/Users/kreis/Downloads/'
+  177  trans -V
+  176  brew install translate-shell
+  175  trans -V
+  174  trance -v
+  173  /Users/kreis/Downloads/translate-shell-develop/translate-shell.plugin.zsh; exit
+  172  /Users/kreis/Downloads/translate-shell-develop/translate ; exit;
+  171  /Users/kreis/Downloads/translate-shell-develop/translate-shell.plugin.zsh; exit
+  170  cd '/Users/kreis/Downloads/alfred-quick-translate-master/'
+  169  ls -al
+  168  clear
+  167  pwd
+  166  ls -al
+  165  clear
+  164  ls -al
+  163  clear
+  162  traceroute 10.11.11.21
+  161  tracelt http://10.11.11.21:8080/mcpvc/loginForm
+  160  ping 10.11.11.21
+  159  d
+  158  exit
+  157  ls -al
+  156  clear
+  155  exit
+  154  clear
+  153  ls -al
+  152  dir
+  151  clear
+  150  ls -al
+  149  dir
+  148  clear
+  147  clerar
+  146  ls -al
+  145  ls -a
+  144  ls -al
+  143  ls
+  142  ls 
+  141  clear
+  140  pwd
+  139  ls -al
+  138  clear
+  137  ls -al
+  136  ls 0al
+  135  ls -al
+  134  ls 0al
+  133  clear
+  132  ls -al
+  131  clear
+  130  ls -al
+  129  clear
+  128  ls -al
+  127  exit
+  126  clear
+  125  ls -al
+  124  cd work
+  123  ls -al
+  122  mkdir work
+  121  ls -al
+  120  exit
+  119  killall Finder
+  118  defaults write com.apple.finder _FXShowPosixPathInTitle -boolean true
+  117  exit
+  116  ls -al
+  115  clear
+  114  ls -al
+  113  l s-al
+  112  vi ~/.zshrc
+  111  pwd
+  110  $ vi ~/.zshrc
+  109  cd
+  108  pwd
+  107  $ vi ~/.zshrc
+  106  echo $PATH
+  105  ls -al
+  104  cd /
+  103  pwd
+  102  cd
+  101  clear
+  100  ls -al
+   99  cd samples
+   98  ls -al
+   97  cd fonts
+   96  cd font
+   95  pwd
+   94  ls -al
+   93  clear
+   92  cleafr
+   91  ls -al
+   90  pwd
+   89  ls -al
+   88  exit
+   87  ls -al
+   86  ls 0al
+   85  ps -au
+   84  ps -aux
+   83  ps
+   82  pwd
+   81  ls -al
+   80  clear
+   79  ls -al
+   78  exit
+   77  ls -al
+   76  exit
+   75  ls -al
+   74  exit
+   73  ls -al
+   72  ls 0la
+   71  exit
+   70  pwd
+   69  ls -al
+   68  exit
+   67  ls -al
+   66  pwd
+   65  cat ~/.bash_profile >> ~/.zprofile
+   64  ls -al
+   63  cd 
+   62  pwd
+   61  cat ~/.bash_profile >> ~/.zprofile
+   60  ls -al
+   59  cat ~/.zshrc | more
+   58  cat ~/zshrc | more
+   57  cat ~/.zshrc
+   56  sudo vi ~/.zshrc
+   55  vi ~/.zshrc
+   54  cp cobalt2.zsh-theme ~/.oh-my-zsh/themes/
+   53  cd Cobalt2-iterm
+   52  ls -al
+   51  pwd
+   50  ls -al
+   49  echo "\ue0b0 \u00b1 \ue0a0 \u27a6 \u2718 \u26a1 \u2699"
+   48  ls -al
+   47  cd D2Coding
+   46  ls -al
+   45  ls 0al
+   44  cd fonts
+   43  cd font
+   42  git clone https://github.com/powerline/fonts
+   41  pwd
+   40  git clone https://github.com/powerline/fonts
+   39  ls -al
+   38  clear
+   37  ls -al
+   36  echo "\ue0b0 \u00b1 \ue0a0 \u27a6 \u2718 \u26a1 \u2699"
+   35  ls -al
+   34  la -al
+   33  clear
+   32  ls -al
+   31  echo "\ue0b0 \u00b1 \ue0a0 \u27a6 \u2718 \u26a1 \u2699"
+   30  ls -al
+   29  git clone https://github.com/wesbos/Cobalt2-iterm.git
+   28  pwd
+   27  cd
+   26  ls -al
+   25  sudo ./install.sh
+   24  cd fonts
+   23  cd fon
+   22  pwd
+   21  ./install.sh
+   20  ls -al
+   19  cd fonts
+   18  ls -al
+   17  git clone https://github.com/powerline/fonts
+   16  pwd
+   15  ls -al
+   14  vi .zshrc
+   13  cat .zshrc
+   12  ls -al
+   11  pwd
+   10  which .zshrc
+    9  ls -al
+    8  exit
+    7  sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"\n
+    6  ls -al
+    5  ls 0al
+    4  echo $SHELL
+    3  exit
+    2  q
+    1  ;
